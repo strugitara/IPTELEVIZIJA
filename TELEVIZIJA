@@ -1,549 +1,418 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="RTS HD" tvg-name="Ex-Yu: RTS HD" tvg-logo="http://boomtv.club/logo/rtshd.png" group-title="Srpski",Ex-Yu: RTS HD
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6389.ts
-#EXTINF:-1 tvg-ID="RTS 1" tvg-name="Ex-Yu: RTS 1" tvg-logo="http://boomtv.club/logo/rts1rs.png" group-title="Srpski",Ex-Yu: RTS 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1.ts
-#EXTINF:-1 tvg-ID="RTS 2" tvg-name="Ex-Yu: RTS 2" tvg-logo="http://boomtv.club/logo/rts2rs.png" group-title="Srpski",Ex-Yu: RTS 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/2.ts
-#EXTINF:-1 tvg-ID="RTS 3" tvg-name="Ex-Yu: RTS 3" tvg-logo="http://boomtv.club/logo/rts3rs.png" group-title="Srpski",Ex-Yu: RTS 3
-http://boomtv.at:8000/live/filmovihr/9274276428752625/3.ts
-#EXTINF:-1 tvg-ID="RTS Sat" tvg-name="Ex-Yu: RTS Sat" tvg-logo="http://boomtv.club/logo/rtssat.png" group-title="Srpski",Ex-Yu: RTS Sat
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6337.ts
-#EXTINF:-1 tvg-ID="RTV 1" tvg-name="Ex-Yu: RTV 1" tvg-logo="http://boomtv.club/logo/rtv1.png" group-title="Srpski",Ex-Yu: RTV 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/4.ts
-#EXTINF:-1 tvg-ID="RTV 2" tvg-name="Ex-Yu: RTV 2" tvg-logo="http://boomtv.club/logo/rtv2.png" group-title="Srpski",Ex-Yu: RTV 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5297.ts
-#EXTINF:-1 tvg-ID="Prva" tvg-name="Ex-Yu: Prva" tvg-logo="http://boomtv.club/logo/prva.png" group-title="Srpski",Ex-Yu: Prva
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5.ts
-#EXTINF:-1 tvg-ID="Prva Plus" tvg-name="Ex-Yu: Prva Plus" tvg-logo="http://boomtv.club/logo/prvaplus.png" group-title="Srpski",Ex-Yu: Prva Plus
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6.ts
-#EXTINF:-1 tvg-ID="Prva MAX" tvg-name="Ex-Yu: Prva Max" tvg-logo="http://boomtv.club/logo/prvamax.png" group-title="Srpski",Ex-Yu: Prva Max
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6336.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Prva World" tvg-logo="http://boomtv.club/logo/prvaworld.png" group-title="Srpski",Ex-Yu: Prva World
-http://boomtv.at:8000/live/filmovihr/9274276428752625/11.ts
-#EXTINF:-1 tvg-ID="Pink 1" tvg-name="Ex-Yu: Pink 1" tvg-logo="http://boomtv.club/logo/pink1.png" group-title="Srpski",Ex-Yu: Pink 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/7.ts
-#EXTINF:-1 tvg-ID="Pink 2" tvg-name="Ex-Yu: Pink 2" tvg-logo="http://boomtv.club/logo/pink2.png" group-title="Srpski",Ex-Yu: Pink 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8.ts
-#EXTINF:-1 tvg-ID="Pink 3 Info" tvg-name="Ex-Yu: Pink 3 Info" tvg-logo="http://boomtv.club/logo/pink3.png" group-title="Srpski",Ex-Yu: Pink 3 Info
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9.ts
-#EXTINF:-1 tvg-ID="B92" tvg-name="Ex-Yu: B92" tvg-logo="http://boomtv.club/logo/b92.png" group-title="Srpski",Ex-Yu: B92
-http://boomtv.at:8000/live/filmovihr/9274276428752625/10.ts
-#EXTINF:-1 tvg-ID="Nova RS" tvg-name="Ex-Yu: Nova RS" tvg-logo="http://boomtv.club/logo/nova.png" group-title="Srpski",Ex-Yu: Nova RS
-http://boomtv.at:8000/live/filmovihr/9274276428752625/12.ts
-#EXTINF:-1 tvg-ID="Happy TV" tvg-name="Ex-Yu: Happy" tvg-logo="http://boomtv.club/logo/happy.png" group-title="Srpski",Ex-Yu: Happy
-http://boomtv.at:8000/live/filmovihr/9274276428752625/13.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Parovi uzivo" tvg-logo="http://boomtv.club/logo/parovi.png" group-title="Srpski",Ex-Yu: Parovi uzivo
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8753.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV1 Vienna" tvg-logo="http://boomtv.club/logo/tv1vienna.png" group-title="Srpski",Ex-Yu: TV1 Vienna
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8818.ts
-#EXTINF:-1 tvg-ID="N1" tvg-name="Ex-Yu: N1 Info" tvg-logo="http://boomtv.club/logo/n1.png" group-title="Srpski",Ex-Yu: N1 Info
-http://boomtv.at:8000/live/filmovihr/9274276428752625/47.ts
-#EXTINF:-1 tvg-ID="Al Jazeera Balkans" tvg-name="Ex-Yu: Al Jezzera Balkans" tvg-logo="http://boomtv.club/logo/alj.png" group-title="Srpski",Ex-Yu: Al Jezzera Balkans
-http://boomtv.at:8000/live/filmovihr/9274276428752625/16.ts
-#EXTINF:-1 tvg-ID="SOS" tvg-name="Ex-Yu: SOS" tvg-logo="http://boomtv.club/logo/sos.png" group-title="Srpski",Ex-Yu: SOS
-http://boomtv.at:8000/live/filmovihr/9274276428752625/14.ts
-#EXTINF:-1 tvg-ID="Studio B" tvg-name="Ex-Yu: Studio B" tvg-logo="http://boomtv.club/logo/studiob.png" group-title="Srpski",Ex-Yu: Studio B
-http://boomtv.at:8000/live/filmovihr/9274276428752625/15.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Telegraf TV" tvg-logo="http://boomtv.club/logo/telegraf.png" group-title="Srpski",Ex-Yu: Telegraf TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8549.ts
-#EXTINF:-1 tvg-ID="KCN 1" tvg-name="Ex-Yu: KCN 1" tvg-logo="http://boomtv.club/logo/kcn1.png" group-title="Srpski",Ex-Yu: KCN 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/232.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: KCN 2" tvg-logo="http://boomtv.club/logo/kcn2.png" group-title="Srpski",Ex-Yu: KCN 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/233.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: KCN 3" tvg-logo="http://boomtv.club/logo/kcn3.png" group-title="Srpski",Ex-Yu: KCN 3
-http://boomtv.at:8000/live/filmovihr/9274276428752625/234.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Novi Pazar" tvg-logo="http://boomtv.club/logo/novipazar.png" group-title="Srpski",Ex-Yu: Novi Pazar
-http://boomtv.at:8000/live/filmovihr/9274276428752625/34.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Sandzak TV" tvg-logo="http://boomtv.club/logo/sandzak.png" group-title="Srpski",Ex-Yu: Sandzak TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/3291.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV AS Sabac" tvg-logo="http://www.cenzolovka.rs/wp-content/uploads/2015/06/rtv-sabac-logo.jpg" group-title="Srpski",Ex-Yu: TV AS Sabac
-http://boomtv.at:8000/live/filmovihr/9274276428752625/226.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV Vikom" tvg-logo="http://boomtv.club/logo/vikom.png" group-title="Srpski",Ex-Yu: TV Vikom
-http://boomtv.at:8000/live/filmovihr/9274276428752625/4832.ts
-#EXTINF:-1 tvg-ID="" tvg-name="(RS) TV Kladovo" tvg-logo="http://boomtv.club/logo/tvkladovo.png" group-title="Srpski",(RS) TV Kladovo
-http://boomtv.at:8000/live/filmovihr/9274276428752625/4826.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV Hram" tvg-logo="http://boomtv.club/logo/hram.png" group-title="Srpski",Ex-Yu: TV Hram
-http://boomtv.at:8000/live/filmovihr/9274276428752625/4829.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV Leskovac" tvg-logo="" group-title="Srpski",Ex-Yu: TV Leskovac
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5299.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV Istok" tvg-logo="http://boomtv.club/logo/tvistok.png" group-title="Srpski",Ex-Yu: TV Istok
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5298.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Sremska TV" tvg-logo="http://boomtv.club/logo/sremskatv.png" group-title="Srpski",Ex-Yu: Sremska TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5301.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Rtv Pannonija" tvg-logo="http://boomtv.club/logo/panonija.png" group-title="Srpski",Ex-Yu: Rtv Pannonija
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5302.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Palma Plus" tvg-logo="http://boomtv.club/logo/palmaplus.png" group-title="Srpski",Ex-Yu: Palma Plus
-http://boomtv.at:8000/live/filmovihr/9274276428752625/4831.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Mlava TV" tvg-logo="http://boomtv.club/logo/mlava.png" group-title="Srpski",Ex-Yu: Mlava TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/4830.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Bor TV" tvg-logo="http://boomtv.club/logo/tvbor.png" group-title="Srpski",Ex-Yu: Bor TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/4827.ts
-#EXTINF:-1 tvg-ID="Pink M" tvg-name="Ex-Yu: Pink M" tvg-logo="http://boomtv.club/logo/pinkm.png" group-title="Crna Gora",Ex-Yu: Pink M
-http://boomtv.at:8000/live/filmovihr/9274276428752625/106.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: RTCG Sat" tvg-logo="http://boomtv.club/logo/rtcgsat.png" group-title="Crna Gora",Ex-Yu: RTCG Sat
-http://boomtv.at:8000/live/filmovihr/9274276428752625/7947.ts
-#EXTINF:-1 tvg-ID="RTCG 1" tvg-name="Ex-Yu: RTCG 1" tvg-logo="http://boomtv.club/logo/rtcg1.png" group-title="Crna Gora",Ex-Yu: RTCG 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/7948.ts
-#EXTINF:-1 tvg-ID="RTCG 2" tvg-name="Ex-Yu: RTCG 2" tvg-logo="http://boomtv.club/logo/rtcg2.png" group-title="Crna Gora",Ex-Yu: RTCG 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/7949.ts
-#EXTINF:-1 tvg-ID="Atlas TV" tvg-name="Ex-Yu: Atlas" tvg-logo="http://boomtv.club/logo/tvatlas.png" group-title="Crna Gora",Ex-Yu: Atlas
-http://boomtv.at:8000/live/filmovihr/9274276428752625/7951.ts
-#EXTINF:-1 tvg-ID="Vijesti" tvg-name="Ex-Yu: 24 Vijesti" tvg-logo="http://boomtv.club/logo/24vesti.png" group-title="Crna Gora",Ex-Yu: 24 Vijesti
-http://boomtv.at:8000/live/filmovihr/9274276428752625/7950.ts
-#EXTINF:-1 tvg-ID="777" tvg-name="Ex-Yu: TV 777" tvg-logo="http://boomtv.club/logo/777.png" group-title="Crna Gora",Ex-Yu: TV 777
-http://boomtv.at:8000/live/filmovihr/9274276428752625/7952.ts
-#EXTINF:-1 tvg-ID="HRT 1" tvg-name="Ex-Yu: HRT 1" tvg-logo="http://boomtv.club/logo/hrt1.png" group-title="Hrvatski",Ex-Yu: HRT 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/55.ts
-#EXTINF:-1 tvg-ID="HRT 2" tvg-name="Ex-Yu: HRT 2" tvg-logo="http://boomtv.club/logo/hrt2.png" group-title="Hrvatski",Ex-Yu: HRT 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/56.ts
-#EXTINF:-1 tvg-ID="HRT 3" tvg-name="Ex-Yu: HRT 3" tvg-logo="http://boomtv.club/logo/hrt3.png" group-title="Hrvatski",Ex-Yu: HRT 3
-http://boomtv.at:8000/live/filmovihr/9274276428752625/57.ts
-#EXTINF:-1 tvg-ID="HRT 4" tvg-name="Ex-Yu: HRT 4" tvg-logo="http://boomtv.club/logo/hrt4.png" group-title="Hrvatski",Ex-Yu: HRT 4
-http://boomtv.at:8000/live/filmovihr/9274276428752625/58.ts
-#EXTINF:-1 tvg-ID="Nova TV" tvg-name="Ex-Yu: Nova TV" tvg-logo="http://boomtv.club/logo/novahr.png" group-title="Hrvatski",Ex-Yu: Nova TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/59.ts
-#EXTINF:-1 tvg-ID="RTL" tvg-name="Ex-Yu: RTL Televizija" tvg-logo="http://boomtv.club/logo/rtlhr.png" group-title="Hrvatski",Ex-Yu: RTL Televizija
-http://boomtv.at:8000/live/filmovihr/9274276428752625/60.ts
-#EXTINF:-1 tvg-ID="RTL 2" tvg-name="Ex-Yu: RTL 2" tvg-logo="http://boomtv.club/logo/rtl2hr.png" group-title="Hrvatski",Ex-Yu: RTL 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/61.ts
-#EXTINF:-1 tvg-ID="RTL Crime" tvg-name="Ex-Yu: RTL Crime" tvg-logo="http://boomtv.club/logo/rtlcrimehr.png" group-title="Hrvatski",Ex-Yu: RTL Crime
-http://boomtv.at:8000/live/filmovihr/9274276428752625/62.ts
-#EXTINF:-1 tvg-ID="RTL Living" tvg-name="Ex-Yu: RTL Living" tvg-logo="http://boomtv.club/logo/rtlliving.png" group-title="Hrvatski",Ex-Yu: RTL Living
-http://boomtv.at:8000/live/filmovihr/9274276428752625/63.ts
-#EXTINF:-1 tvg-ID="RTL Passion" tvg-name="Ex-Yu: RTL Passion" tvg-logo="http://boomtv.club/logo/rtlpassion.png" group-title="Hrvatski",Ex-Yu: RTL Passion
-http://boomtv.at:8000/live/filmovihr/9274276428752625/64.ts
-#EXTINF:-1 tvg-ID="Klasik TV" tvg-name="Ex-Yu: Klasik TV" tvg-logo="http://boomtv.club/logo/klasik.png" group-title="Hrvatski",Ex-Yu: Klasik TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/71.ts
-#EXTINF:-1 tvg-ID="Doma TV" tvg-name="Ex-Yu: Doma TV" tvg-logo="http://boomtv.club/logo/doma.png" group-title="Hrvatski",Ex-Yu: Doma TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/72.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Z1" tvg-logo="http://boomtv.club/logo/z1.png" group-title="Hrvatski",Ex-Yu: Z1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1486.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Slavonska TV" tvg-logo="http://boomtv.club/logo/slavonska.png" group-title="Hrvatski",Ex-Yu: Slavonska TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/66.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Osjecka TV" tvg-logo="http://boomtv.club/logo/osjecka.png" group-title="Hrvatski",Ex-Yu: Osjecka TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/67.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Vinkovacka TV" tvg-logo="http://boomtv.club/logo/vinkovacka.png" group-title="Hrvatski",Ex-Yu: Vinkovacka TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1473.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Banovina TV" tvg-logo="http://boomtv.club/logo/banovina.png" group-title="Hrvatski",Ex-Yu: Banovina TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1474.ts
-#EXTINF:-1 tvg-ID="BHT 1" tvg-name="Ex-Yu: BHT 1" tvg-logo="http://boomtv.club/logo/bhtv.png" group-title="Bosna i Hercegovina",Ex-Yu: BHT 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/42.ts
-#EXTINF:-1 tvg-ID="BN" tvg-name="Ex-Yu: BN TV" tvg-logo="http://boomtv.club/logo/bntv.png" group-title="Bosna i Hercegovina",Ex-Yu: BN TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/36.ts
-#EXTINF:-1 tvg-ID="OBN" tvg-name="Ex-Yu: OBN" tvg-logo="http://boomtv.club/logo/obn.png" group-title="Bosna i Hercegovina",Ex-Yu: OBN
-http://boomtv.at:8000/live/filmovihr/9274276428752625/43.ts
-#EXTINF:-1 tvg-ID="TK" tvg-name="Ex-Yu: TK Tuzla" tvg-logo="http://boomtv.club/logo/tktuzla.png" group-title="Bosna i Hercegovina",Ex-Yu: TK Tuzla
-http://boomtv.at:8000/live/filmovihr/9274276428752625/44.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV Sarajevo" tvg-logo="http://boomtv.club/logo/tvsa.png" group-title="Bosna i Hercegovina",Ex-Yu: TV Sarajevo
-http://boomtv.at:8000/live/filmovihr/9274276428752625/46.ts
-#EXTINF:-1 tvg-ID="Face TV" tvg-name="Ex-Yu: Face TV" tvg-logo="http://boomtv.club/logo/facetv.png" group-title="Bosna i Hercegovina",Ex-Yu: Face TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/48.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV USK" tvg-logo="http://boomtv.club/logo/tvusk.png" group-title="Bosna i Hercegovina",Ex-Yu: TV USK
-http://boomtv.at:8000/live/filmovihr/9274276428752625/4448.ts
-#EXTINF:-1 tvg-ID="Federalna TV" tvg-name="Ex-Yu: Federalna TV" tvg-logo="http://boomtv.club/logo/federalna.png" group-title="Bosna i Hercegovina",Ex-Yu: Federalna TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/49.ts
-#EXTINF:-1 tvg-ID="RTRS" tvg-name="Ex-Yu: RTRS" tvg-logo="http://boomtv.club/logo/rtrs.png" group-title="Bosna i Hercegovina",Ex-Yu: RTRS
-http://boomtv.at:8000/live/filmovihr/9274276428752625/17.ts
-#EXTINF:-1 tvg-ID="RTRS Plus" tvg-name="Ex-Yu: RTRS Plus" tvg-logo="http://boomtv.club/logo/rtrsplus.png" group-title="Bosna i Hercegovina",Ex-Yu: RTRS Plus
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8595.ts
-#EXTINF:-1 tvg-ID="ATV" tvg-name="Ex-Yu: Alternativna" tvg-logo="http://boomtv.club/logo/alternativna.png" group-title="Bosna i Hercegovina",Ex-Yu: Alternativna
-http://boomtv.at:8000/live/filmovihr/9274276428752625/18.ts
-#EXTINF:-1 tvg-ID="Hayat TV" tvg-name="Ex-Yu: Hayat" tvg-logo="http://boomtv.club/logo/hayat.png" group-title="Bosna i Hercegovina",Ex-Yu: Hayat
-http://boomtv.at:8000/live/filmovihr/9274276428752625/50.ts
-#EXTINF:-1 tvg-ID="Hayat Plus" tvg-name="Ex-Yu: Hayat Plus" tvg-logo="http://boomtv.club/logo/hayatplus.png" group-title="Bosna i Hercegovina",Ex-Yu: Hayat Plus
-http://boomtv.at:8000/live/filmovihr/9274276428752625/51.ts
-#EXTINF:-1 tvg-ID="Hayat Folk" tvg-name="Ex-Yu: Hayat Folk" tvg-logo="http://boomtv.club/logo/hayatfolk.png" group-title="Bosna i Hercegovina",Ex-Yu: Hayat Folk
-http://boomtv.at:8000/live/filmovihr/9274276428752625/53.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Hayat Music" tvg-logo="http://boomtv.club/logo/hayatmusic.png" group-title="Bosna i Hercegovina",Ex-Yu: Hayat Music
-http://boomtv.at:8000/live/filmovihr/9274276428752625/52.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Slon TV" tvg-logo="http://boomtv.club/logo/tvslon.png" group-title="Bosna i Hercegovina",Ex-Yu: Slon TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/230.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: MTV Igman" tvg-logo="http://boomtv.club/logo/mtvigman.png" group-title="Bosna i Hercegovina",Ex-Yu: MTV Igman
-http://boomtv.at:8000/live/filmovihr/9274276428752625/224.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Izvorna TV" tvg-logo="http://boomtv.club/logo/izvorna.png" group-title="Bosna i Hercegovina",Ex-Yu: Izvorna TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/225.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Posavina" tvg-logo="http://boomtv.club/logo/posavina.png" group-title="Bosna i Hercegovina",Ex-Yu: Posavina
-http://boomtv.at:8000/live/filmovihr/9274276428752625/4860.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV Zenica" tvg-logo="http://boomtv.club/logo/tvzenica.png" group-title="Bosna i Hercegovina",Ex-Yu: TV Zenica
-http://boomtv.at:8000/live/filmovihr/9274276428752625/4823.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: RTV Sevdah" tvg-logo="http://boomtv.club/logo/sevdahtv.png" group-title="Bosna i Hercegovina",Ex-Yu: RTV Sevdah
-http://boomtv.at:8000/live/filmovihr/9274276428752625/4824.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: OTV Valentinovo" tvg-logo="http://boomtv.club/logo/otvvalentino.png" group-title="Bosna i Hercegovina",Ex-Yu: OTV Valentinovo
-http://boomtv.at:8000/live/filmovihr/9274276428752625/4825.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Valentino Etno" tvg-logo="" group-title="Bosna i Hercegovina",Ex-Yu: Valentino Etno
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5304.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Zivinice TV" tvg-logo="" group-title="Bosna i Hercegovina",Ex-Yu: Zivinice TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5290.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV Sehara" tvg-logo="" group-title="Bosna i Hercegovina",Ex-Yu: TV Sehara
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5289.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV Jata" tvg-logo="http://boomtv.club/logo/tvjata.png" group-title="Bosna i Hercegovina",Ex-Yu: TV Jata
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5285.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Smart TV Tesanj" tvg-logo="http://boomtv.club/logo/smarttesanj.png" group-title="Bosna i Hercegovina",Ex-Yu: Smart TV Tesanj
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5291.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Prva Hercegovacka" tvg-logo="" group-title="Bosna i Hercegovina",Ex-Yu: Prva Hercegovacka
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5296.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: NTV IC Kakanj" tvg-logo="" group-title="Bosna i Hercegovina",Ex-Yu: NTV IC Kakanj
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5288.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Kanal 5" tvg-logo="http://boomtv.club/logo/tv5ba.png" group-title="Bosna i Hercegovina",Ex-Yu: Kanal 5
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5293.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Hit Brcko" tvg-logo="http://boomtv.club/logo/hitbrcko.png" group-title="Bosna i Hercegovina",Ex-Yu: Hit Brcko
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5295.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Bujrum TV" tvg-logo="" group-title="Bosna i Hercegovina",Ex-Yu: Bujrum TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5292.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: A1 Islam" tvg-logo="http://boomtv.club/logo/a1islam.png" group-title="Bosna i Hercegovina",Ex-Yu: A1 Islam
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5294.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Medina TV" tvg-logo="" group-title="Bosna i Hercegovina",Ex-Yu: Medina TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9802.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Kanal 6 Travnik" tvg-logo="http://boomtv.club/logo/travnik.png" group-title="Bosna i Hercegovina",Ex-Yu: Kanal 6 Travnik
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5286.ts
-#EXTINF:-1 tvg-ID="SLO 1" tvg-name="(SLO) SLO TV 1" tvg-logo="http://boomtv.club/logo/slotv1.png" group-title="Slovenia",(SLO) SLO TV 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6371.ts
-#EXTINF:-1 tvg-ID="SLO 2" tvg-name="(SLO) SLO TV 2" tvg-logo="http://boomtv.club/logo/slotv2.png" group-title="Slovenia",(SLO) SLO TV 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6372.ts
-#EXTINF:-1 tvg-ID="SLO 3" tvg-name="(SLO) SLO TV 3" tvg-logo="http://boomtv.club/logo/slotv3.png" group-title="Slovenia",(SLO) SLO TV 3
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6373.ts
-#EXTINF:-1 tvg-ID="" tvg-name="(SLO) TV 3" tvg-logo="" group-title="Slovenia",(SLO) TV 3
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6380.ts
-#EXTINF:-1 tvg-ID="POP TV" tvg-name="(SLO) Pop TV" tvg-logo="http://boomtv.club/logo/poptvslovenia.png" group-title="Slovenia",(SLO) Pop TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6374.ts
-#EXTINF:-1 tvg-ID="POP Oto" tvg-name="(SLO) Pop Oto" tvg-logo="http://boomtv.club/logo/otoslovenia.png" group-title="Slovenia",(SLO) Pop Oto
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6375.ts
-#EXTINF:-1 tvg-ID="POP Kino" tvg-name="(SLO) Pop Kino" tvg-logo="http://boomtv.club/logo/kinoslovenia.png" group-title="Slovenia",(SLO) Pop Kino
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6376.ts
-#EXTINF:-1 tvg-ID="Kanal A" tvg-name="(SLO) Kanal A" tvg-logo="http://boomtv.club/logo/kanalaslo.png" group-title="Slovenia",(SLO) Kanal A
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6369.ts
-#EXTINF:-1 tvg-ID="Veseljak" tvg-name="(SLO) TV Veseljak" tvg-logo="http://boomtv.club/logo/tvveseljak.png" group-title="Slovenia",(SLO) TV Veseljak
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6367.ts
-#EXTINF:-1 tvg-ID="POP Brio" tvg-name="(SLO) Brio" tvg-logo="http://boomtv.club/logo/brioslovenia.png" group-title="Slovenia",(SLO) Brio
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6370.ts
-#EXTINF:-1 tvg-ID="" tvg-name="(SLO) HBO 1" tvg-logo="http://boomtv.club/logo/hbo1.png" group-title="Slovenia",(SLO) HBO 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6381.ts
-#EXTINF:-1 tvg-ID="" tvg-name="(SLO) HBO 2" tvg-logo="http://boomtv.club/logo/hbo2.png" group-title="Slovenia",(SLO) HBO 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6379.ts
-#EXTINF:-1 tvg-ID="" tvg-name="(SLO) History" tvg-logo="http://boomtv.club/logo/history.png" group-title="Slovenia",(SLO) History
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6368.ts
-#EXTINF:-1 tvg-ID="" tvg-name="(SLO) HBO 3" tvg-logo="http://boomtv.club/logo/hbo3.png" group-title="Slovenia",(SLO) HBO 3
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6377.ts
-#EXTINF:-1 tvg-ID="" tvg-name="(SLO) Da Vinci Learning" tvg-logo="http://boomtv.club/logo/davinci.png" group-title="Slovenia",(SLO) Da Vinci Learning
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6378.ts
-#EXTINF:-1 tvg-ID="DM Sat" tvg-name="Ex-Yu: DM Sat" tvg-logo="http://boomtv.club/logo/dmsat.png" group-title="Muzicki",Ex-Yu: DM Sat
-http://boomtv.at:8000/live/filmovihr/9274276428752625/35.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV Ringe" tvg-logo="http://boomtv.club/logo/ringe.png" group-title="Muzicki",Ex-Yu: TV Ringe
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9566.ts
-#EXTINF:-1 tvg-ID="BN Music" tvg-name="Ex-Yu: BN Music" tvg-logo="http://boomtv.club/logo/bnmusic.png" group-title="Muzicki",Ex-Yu: BN Music
-http://boomtv.at:8000/live/filmovihr/9274276428752625/37.ts
-#EXTINF:-1 tvg-ID="Grand Narodna TV" tvg-name="Ex-Yu: Grand TV" tvg-logo="http://boomtv.club/logo/grand.png" group-title="Muzicki",Ex-Yu: Grand TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/38.ts
-#EXTINF:-1 tvg-ID="Grand Narodna TV" tvg-name="Ex-Yu: Grand 2 TV" tvg-logo="http://boomtv.club/logo/grand2.png" group-title="Muzicki",Ex-Yu: Grand 2 TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5857.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: iDJ TV" tvg-logo="http://boomtv.club/logo/idjtv.png" group-title="Muzicki",Ex-Yu: iDJ TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8728.ts
-#EXTINF:-1 tvg-ID="TV Duga" tvg-name="Ex-Yu: Duga TV" tvg-logo="http://boomtv.club/logo/tvduga.png" group-title="Muzicki",Ex-Yu: Duga TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/39.ts
-#EXTINF:-1 tvg-ID="" tvg-name="(SLO) Sport TV 1" tvg-logo="" group-title="Slovenia",(SLO) Sport TV 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6382.ts
-#EXTINF:-1 tvg-ID="" tvg-name="(SLO) Sport TV 2" tvg-logo="" group-title="Slovenia",(SLO) Sport TV 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6383.ts
-#EXTINF:-1 tvg-ID="" tvg-name="(SLO) Sport TV 3" tvg-logo="" group-title="Slovenia",(SLO) Sport TV 3
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6384.ts
-#EXTINF:-1 tvg-ID="Arena Sport 1" tvg-name="Ex-Yu: Arena Sport 1" tvg-logo="http://boomtv.club/logo/arenasport1.png" group-title="Sportski",Ex-Yu: Arena Sport 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/29.ts
-#EXTINF:-1 tvg-ID="Arena Sport 2" tvg-name="Ex-Yu: Arena Sport 2" tvg-logo="http://boomtv.club/logo/arenasport2.png" group-title="Sportski",Ex-Yu: Arena Sport 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/30.ts
-#EXTINF:-1 tvg-ID="Arena Sport 3" tvg-name="Ex-Yu: Arena Sport 3" tvg-logo="http://boomtv.club/logo/arenasport3.png" group-title="Sportski",Ex-Yu: Arena Sport 3
-http://boomtv.at:8000/live/filmovihr/9274276428752625/31.ts
-#EXTINF:-1 tvg-ID="Arena Sport 4" tvg-name="Ex-Yu: Arena Sport 4" tvg-logo="http://boomtv.club/logo/arenasport4.png" group-title="Sportski",Ex-Yu: Arena Sport 4
-http://boomtv.at:8000/live/filmovihr/9274276428752625/32.ts
-#EXTINF:-1 tvg-ID="Arena Sport 5" tvg-name="Ex-Yu: Arena Sport 5" tvg-logo="http://boomtv.club/logo/arenasport5.png" group-title="Sportski",Ex-Yu: Arena Sport 5
-http://boomtv.at:8000/live/filmovihr/9274276428752625/33.ts
-#EXTINF:-1 tvg-ID="Arena Sport 6 HR" tvg-name="Ex-Yu: Arena Sport 6" tvg-logo="http://boomtv.club/logo/arenasport6.png" group-title="Sportski",Ex-Yu: Arena Sport 6
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8626.ts
-#EXTINF:-1 tvg-ID="Arena Sport 1 HD" tvg-name="Ex-Yu: Arena Sport 1 HD" tvg-logo="http://boomtv.club/logo/arenasport1.png" group-title="Sportski",Ex-Yu: Arena Sport 1 HD
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9617.ts
-#EXTINF:-1 tvg-ID="Arena Sport 2 HD" tvg-name="Ex-Yu: Arena Sport 2 HD" tvg-logo="http://boomtv.club/logo/arenasport2.png" group-title="Sportski",Ex-Yu: Arena Sport 2 HD
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9618.ts
-#EXTINF:-1 tvg-ID="Arena Sport 3 HD" tvg-name="Ex-Yu: Arena Sport 3 HD" tvg-logo="http://boomtv.club/logo/arenasport3.png" group-title="Sportski",Ex-Yu: Arena Sport 3 HD
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9619.ts
-#EXTINF:-1 tvg-ID="Arena Sport 4 HD" tvg-name="Ex-Yu: Arena Sport 4 HD" tvg-logo="http://boomtv.club/logo/arenasport4.png" group-title="Sportski",Ex-Yu: Arena Sport 4 HD
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9620.ts
-#EXTINF:-1 tvg-ID="Arena Sport 1 HR" tvg-name="Ex-Yu: Arena Sport 1 HR" tvg-logo="http://boomtv.club/logo/arenasport1.png" group-title="Sportski",Ex-Yu: Arena Sport 1 HR
-http://boomtv.at:8000/live/filmovihr/9274276428752625/75.ts
-#EXTINF:-1 tvg-ID="Arena Sport 2 HR" tvg-name="Ex-Yu: Arena Sport 2 HR" tvg-logo="http://boomtv.club/logo/arenasport2.png" group-title="Sportski",Ex-Yu: Arena Sport 2 HR
-http://boomtv.at:8000/live/filmovihr/9274276428752625/76.ts
-#EXTINF:-1 tvg-ID="Arena Sport 3 HR" tvg-name="Ex-Yu: Arena Sport 3 HR" tvg-logo="http://boomtv.club/logo/arenasport3.png" group-title="Sportski",Ex-Yu: Arena Sport 3 HR
-http://boomtv.at:8000/live/filmovihr/9274276428752625/77.ts
-#EXTINF:-1 tvg-ID="Arena Sport 4 HR" tvg-name="Ex-Yu: Arena Sport 4 HR" tvg-logo="http://boomtv.club/logo/arenasport4.png" group-title="Sportski",Ex-Yu: Arena Sport 4 HR
-http://boomtv.at:8000/live/filmovihr/9274276428752625/78.ts
-#EXTINF:-1 tvg-ID="Arena Sport 5 HR" tvg-name="Ex-Yu: Arena Sport 5 HR" tvg-logo="http://boomtv.club/logo/arenasport5.png" group-title="Sportski",Ex-Yu: Arena Sport 5 HR
-http://boomtv.at:8000/live/filmovihr/9274276428752625/79.ts
-#EXTINF:-1 tvg-ID="Eurosport 1" tvg-name="Ex-Yu: Eurosport 1" tvg-logo="http://boomtv.club/logo/eurosport1.png" group-title="Sportski",Ex-Yu: Eurosport 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/23.ts
-#EXTINF:-1 tvg-ID="Eurosport 2" tvg-name="Ex-Yu: Eurosport 2" tvg-logo="http://boomtv.club/logo/eurosport2.png" group-title="Sportski",Ex-Yu: Eurosport 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/24.ts
-#EXTINF:-1 tvg-ID="Sport Klub Golf" tvg-name="Ex-Yu: Sport Klub Golf" tvg-logo="http://boomtv.club/logo/skgolf.png" group-title="Sportski",Ex-Yu: Sport Klub Golf
-http://boomtv.at:8000/live/filmovihr/9274276428752625/25.ts
-#EXTINF:-1 tvg-ID="Sport Klub HD" tvg-name="Ex-Yu: Sport Klub" tvg-logo="http://boomtv.club/logo/sk.png" group-title="Sportski",Ex-Yu: Sport Klub
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8621.ts
-#EXTINF:-1 tvg-ID="Sport Klub 1" tvg-name="Ex-Yu: Sport Klub 1" tvg-logo="http://boomtv.club/logo/sk1.png" group-title="Sportski",Ex-Yu: Sport Klub 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/26.ts
-#EXTINF:-1 tvg-ID="Sport Klub 2" tvg-name="Ex-Yu: Sport Klub 2" tvg-logo="http://boomtv.club/logo/sk2.png" group-title="Sportski",Ex-Yu: Sport Klub 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/27.ts
-#EXTINF:-1 tvg-ID="Sport Klub 3" tvg-name="Ex-Yu: Sport Klub 3" tvg-logo="http://boomtv.club/logo/sk3.png" group-title="Sportski",Ex-Yu: Sport Klub 3
-http://boomtv.at:8000/live/filmovihr/9274276428752625/28.ts
-#EXTINF:-1 tvg-ID="Sport Klub 4" tvg-name="Ex-Yu: Sport Klub 4" tvg-logo="http://boomtv.club/logo/sk4.png" group-title="Sportski",Ex-Yu: Sport Klub 4
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1058.ts
-#EXTINF:-1 tvg-ID="Sport Klub 5" tvg-name="Ex-Yu: Sport Klub 5" tvg-logo="http://boomtv.club/logo/sk5.png" group-title="Sportski",Ex-Yu: Sport Klub 5
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1502.ts
-#EXTINF:-1 tvg-ID="Sport Klub 6" tvg-name="Ex-Yu: Sport Klub 6" tvg-logo="http://boomtv.club/logo/sk6.png" group-title="Sportski",Ex-Yu: Sport Klub 6
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1503.ts
-#EXTINF:-1 tvg-ID="Sport Klub 1 HR" tvg-name="Ex-Yu: Sport Klub 1 HR" tvg-logo="http://boomtv.club/logo/sk1.png" group-title="Sportski",Ex-Yu: Sport Klub 1 HR
-http://boomtv.at:8000/live/filmovihr/9274276428752625/80.ts
-#EXTINF:-1 tvg-ID="Sport Klub 1 SLO" tvg-name="Ex-Yu: Sport Klub 1 SLO" tvg-logo="http://boomtv.club/logo/sk1.png" group-title="Sportski",Ex-Yu: Sport Klub 1 SLO
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6385.ts
-#EXTINF:-1 tvg-ID="BT Sport 1 UK" tvg-name="UK: BT Sport 1" tvg-logo="" group-title="Sportski",UK: BT Sport 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9161.ts
-#EXTINF:-1 tvg-ID="BT Sport 2 UK" tvg-name="UK: BT Sport 2" tvg-logo="" group-title="Sportski",UK: BT Sport 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9160.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport Extra 1" tvg-logo="" group-title="Sportski",UK: BT Sport Extra 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9159.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sports Europe" tvg-logo="" group-title="Sportski",UK: BT Sports Europe
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9158.ts
-#EXTINF:-1 tvg-ID="Eurosport 1 UK" tvg-name="UK: Eurosport 1" tvg-logo="" group-title="Sportski",UK: Eurosport 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9157.ts
-#EXTINF:-1 tvg-ID="Eurosport 2 UK" tvg-name="UK: Eurosport2" tvg-logo="" group-title="Sportski",UK: Eurosport2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9156.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV Partizan" tvg-logo="" group-title="Sportski",Ex-Yu: TV Partizan
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8727.ts
-#EXTINF:-1 tvg-ID="Sportska TV" tvg-name="Ex-Yu: Sportska TV" tvg-logo="" group-title="Hrvatski",Ex-Yu: Sportska TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1480.ts
-#EXTINF:-1 tvg-ID="HBO Adria" tvg-name="Ex-Yu: HBO 1" tvg-logo="http://boomtv.club/logo/hbo1.png" group-title="Filmski",Ex-Yu: HBO 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/83.ts
-#EXTINF:-1 tvg-ID="HBO 2" tvg-name="Ex-Yu: HBO 2" tvg-logo="http://boomtv.club/logo/hbo2.png" group-title="Filmski",Ex-Yu: HBO 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/84.ts
-#EXTINF:-1 tvg-ID="HBO 3" tvg-name="Ex-Yu: HBO 3" tvg-logo="http://boomtv.club/logo/hbo3.png" group-title="Filmski",Ex-Yu: HBO 3
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1508.ts
-#EXTINF:-1 tvg-ID="Cinemax 1" tvg-name="Ex-Yu: Cinemax 1" tvg-logo="http://boomtv.club/logo/cinemax1.png" group-title="Filmski",Ex-Yu: Cinemax 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/101.ts
-#EXTINF:-1 tvg-ID="Cinemax 2" tvg-name="Ex-Yu: Cinemax 2" tvg-logo="http://boomtv.club/logo/cinemax2.png" group-title="Filmski",Ex-Yu: Cinemax 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/102.ts
-#EXTINF:-1 tvg-ID="FOX" tvg-name="Ex-Yu: Fox" tvg-logo="http://boomtv.club/logo/fox.png" group-title="Filmski",Ex-Yu: Fox
-http://boomtv.at:8000/live/filmovihr/9274276428752625/19.ts
-#EXTINF:-1 tvg-ID="FOX Crime" tvg-name="Ex-Yu: Fox Crime" tvg-logo="http://boomtv.club/logo/foxcrime.png" group-title="Filmski",Ex-Yu: Fox Crime
-http://boomtv.at:8000/live/filmovihr/9274276428752625/22.ts
-#EXTINF:-1 tvg-ID="FOX Life" tvg-name="Ex-Yu: Fox Life" tvg-logo="http://boomtv.club/logo/foxlife.png" group-title="Filmski",Ex-Yu: Fox Life
-http://boomtv.at:8000/live/filmovihr/9274276428752625/21.ts
-#EXTINF:-1 tvg-ID="FOX Movies" tvg-name="Ex-Yu: Fox Movies" tvg-logo="http://boomtv.club/logo/foxmovies.png" group-title="Filmski",Ex-Yu: Fox Movies
-http://boomtv.at:8000/live/filmovihr/9274276428752625/20.ts
-#EXTINF:-1 tvg-ID="CineStar TV (Srb)" tvg-name="Ex-Yu: Cinestar TV" tvg-logo="http://boomtv.club/logo/cinestartv.png" group-title="Filmski",Ex-Yu: Cinestar TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/97.ts
-#EXTINF:-1 tvg-ID="CineStar Action & Thriller (Srb)" tvg-name="Ex-Yu: CineStar Action & Thriller" tvg-logo="http://boomtv.club/logo/cinestartvaction.png" group-title="Filmski",Ex-Yu: CineStar Action & Thriller
-http://boomtv.at:8000/live/filmovihr/9274276428752625/98.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: CineStar Fantasy" tvg-logo="http://boomtv.club/logo/cinestartvfantasy.png" group-title="Filmski",Ex-Yu: CineStar Fantasy
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8609.ts
-#EXTINF:-1 tvg-ID="CineStar Premiere" tvg-name="Ex-Yu: CineStar Premiere 1" tvg-logo="http://boomtv.club/logo/cinestarpremiere1.png" group-title="Filmski",Ex-Yu: CineStar Premiere 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/99.ts
-#EXTINF:-1 tvg-ID="CineStar Premiere 2" tvg-name="Ex-Yu: CineStar Premiere 2" tvg-logo="http://boomtv.club/logo/cinestarpremiere2.png" group-title="Filmski",Ex-Yu: CineStar Premiere 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/100.ts
-#EXTINF:-1 tvg-ID="M1 Film" tvg-name="Ex-Yu: M1 Film" tvg-logo="http://boomtv.club/logo/m1film.png" group-title="Filmski",Ex-Yu: M1 Film
-http://boomtv.at:8000/live/filmovihr/9274276428752625/85.ts
-#EXTINF:-1 tvg-ID="Kino TV" tvg-name="Ex-Yu: Kino TV" tvg-logo="http://boomtv.club/logo/kinotv.png" group-title="Filmski",Ex-Yu: Kino TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1462.ts
-#EXTINF:-1 tvg-ID="SciFi" tvg-name="Ex-Yu: SciFi" tvg-logo="http://boomtv.club/logo/scifi.png" group-title="Filmski",Ex-Yu: SciFi
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6045.ts
-#EXTINF:-1 tvg-ID="AXN" tvg-name="Ex-Yu: Axn Adria" tvg-logo="http://boomtv.club/logo/axn.png" group-title="Filmski",Ex-Yu: Axn Adria
-http://boomtv.at:8000/live/filmovihr/9274276428752625/86.ts
-#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="Ex-Yu: Axn Spin" tvg-logo="http://boomtv.club/logo/axnspin.png" group-title="Filmski",Ex-Yu: Axn Spin
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8611.ts
-#EXTINF:-1 tvg-ID="TV 1000" tvg-name="Ex-Yu: TV 1000" tvg-logo="http://boomtv.club/logo/tv1000.png" group-title="Filmski",Ex-Yu: TV 1000
-http://boomtv.at:8000/live/filmovihr/9274276428752625/87.ts
-#EXTINF:-1 tvg-ID="Universal Channel" tvg-name="Ex-Yu: Diva Channel" tvg-logo="http://boomtv.club/logo/diva.png" group-title="Filmski",Ex-Yu: Diva Channel
-http://boomtv.at:8000/live/filmovihr/9274276428752625/6338.ts
-#EXTINF:-1 tvg-ID="FilmBox Extra" tvg-name="Ex-Yu: Film Box Extra HD" tvg-logo="http://boomtv.club/logo/filmboxextra.png" group-title="Filmski",Ex-Yu: Film Box Extra HD
-http://boomtv.at:8000/live/filmovihr/9274276428752625/7931.ts
-#EXTINF:-1 tvg-ID="Cinemania" tvg-name="Ex-Yu: Cinemania" tvg-logo="http://boomtv.club/logo/cinemania.png" group-title="Filmski",Ex-Yu: Cinemania
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1498.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Cine Select 1 HD" tvg-logo="" group-title="Filmski",Ex-Yu: Cine Select 1 HD
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8686.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Cine Select 2 HD" tvg-logo="" group-title="Filmski",Ex-Yu: Cine Select 2 HD
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8687.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Cine Select 3 HD" tvg-logo="" group-title="Filmski",Ex-Yu: Cine Select 3 HD
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8688.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Cine Select 4 HD" tvg-logo="" group-title="Filmski",Ex-Yu: Cine Select 4 HD
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8689.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Cine Select 5 HD" tvg-logo="" group-title="Filmski",Ex-Yu: Cine Select 5 HD
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8690.ts
-#EXTINF:-1 tvg-ID="Minimax" tvg-name="Ex-Yu: Minimax" tvg-logo="http://boomtv.club/logo/minimax.png" group-title="Deciji",Ex-Yu: Minimax
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8635.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Disney Xd" tvg-logo="http://boomtv.club/logo/disneyxd.png" group-title="Deciji",Ex-Yu: Disney Xd
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8638.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Disney Junior" tvg-logo="http://boomtv.club/logo/disneyjunior.png" group-title="Deciji",Ex-Yu: Disney Junior
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8637.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Disney Cinemagic" tvg-logo="http://boomtv.club/logo/disneycinemagic.png" group-title="Deciji",Ex-Yu: Disney Cinemagic
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8639.ts
-#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="Ex-Yu: Disney Channel" tvg-logo="http://boomtv.club/logo/disneychannel.png" group-title="Deciji",Ex-Yu: Disney Channel
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8636.ts
-#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Ex-Yu: Boomerang" tvg-logo="http://boomtv.club/logo/boomerang.png" group-title="Deciji",Ex-Yu: Boomerang
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8620.ts
-#EXTINF:-1 tvg-ID="Pink Super Kids" tvg-name="Ex-Yu: Pink Super Kids" tvg-logo="http://boomtv.club/logo/pinksuperkids.png" group-title="Deciji",Ex-Yu: Pink Super Kids
-http://boomtv.at:8000/live/filmovihr/9274276428752625/229.ts
-#EXTINF:-1 tvg-ID="Mini TV" tvg-name="Ex-Yu: Mini TV" tvg-logo="http://boomtv.club/logo/minitv.png" group-title="Deciji",Ex-Yu: Mini TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/68.ts
-#EXTINF:-1 tvg-ID="RTL Kockica" tvg-name="Ex-Yu: RTL Kockica" tvg-logo="http://boomtv.club/logo/rtlkockica.png" group-title="Deciji",Ex-Yu: RTL Kockica
-http://boomtv.at:8000/live/filmovihr/9274276428752625/65.ts
-#EXTINF:-1 tvg-ID="Hayatovci" tvg-name="Ex-Yu: Hayatovci" tvg-logo="http://boomtv.club/logo/hayatovci.png" group-title="Deciji",Ex-Yu: Hayatovci
-http://boomtv.at:8000/live/filmovihr/9274276428752625/54.ts
-#EXTINF:-1 tvg-ID="Baby TV" tvg-name="Ex-Yu: Baby TV" tvg-logo="http://boomtv.club/logo/babytv.png" group-title="Deciji",Ex-Yu: Baby TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1494.ts
-#EXTINF:-1 tvg-ID="Ultra TV" tvg-name="Ex-Yu: Ultra TV" tvg-logo="http://boomtv.club/logo/ultra.png" group-title="Deciji",Ex-Yu: Ultra TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1495.ts
-#EXTINF:-1 tvg-ID="Mini Ultra" tvg-name="Ex-Yu: Mini Ultra" tvg-logo="http://boomtv.club/logo/miniultra.png" group-title="Deciji",Ex-Yu: Mini Ultra
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1496.ts
-#EXTINF:-1 tvg-ID="Orlando Kids" tvg-name="Ex-Yu: Orlando Kids" tvg-logo="http://boomtv.club/logo/orlandokids.png" group-title="Deciji",Ex-Yu: Orlando Kids
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1497.ts
-#EXTINF:-1 tvg-ID="JimJam" tvg-name="Ex-Yu: Jim Jam" tvg-logo="http://boomtv.club/logo/jimjam.png" group-title="Deciji",Ex-Yu: Jim Jam
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1458.ts
-#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Ex-Yu: Nickelodeon" tvg-logo="http://boomtv.club/logo/nick.png" group-title="Deciji",Ex-Yu: Nickelodeon
-http://boomtv.at:8000/live/filmovihr/9274276428752625/69.ts
-#EXTINF:-1 tvg-ID="Nick Jr. UK" tvg-name="Ex-Yu: Nick Jr." tvg-logo="http://boomtv.club/logo/nickjr.png" group-title="Deciji",Ex-Yu: Nick Jr.
-http://boomtv.at:8000/live/filmovihr/9274276428752625/70.ts
-#EXTINF:-1 tvg-ID="CMC" tvg-name="Ex-Yu: CMC" tvg-logo="http://boomtv.club/logo/cmc.png" group-title="Muzicki",Ex-Yu: CMC
-http://boomtv.at:8000/live/filmovihr/9274276428752625/74.ts
-#EXTINF:-1 tvg-ID="Discovery Channel" tvg-name="Ex-Yu: Discovery Channel" tvg-logo="http://boomtv.club/logo/discoverychannel.png" group-title="Dokumentarni",Ex-Yu: Discovery Channel
-http://boomtv.at:8000/live/filmovihr/9274276428752625/94.ts
-#EXTINF:-1 tvg-ID="Discovery Science UK" tvg-name="Ex-Yu: Discovery Science HD" tvg-logo="http://boomtv.club/logo/dsci.png" group-title="Dokumentarni",Ex-Yu: Discovery Science HD
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8615.ts
-#EXTINF:-1 tvg-ID="Discovery World" tvg-name="Ex-Yu: Discovery World" tvg-logo="http://boomtv.club/logo/dworld.png" group-title="Dokumentarni",Ex-Yu: Discovery World
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8616.ts
-#EXTINF:-1 tvg-ID="Investigation Discovery" tvg-name="Ex-Yu: ID Discovery" tvg-logo="http://boomtv.club/logo/idx.png" group-title="Dokumentarni",Ex-Yu: ID Discovery
-http://boomtv.at:8000/live/filmovihr/9274276428752625/95.ts
-#EXTINF:-1 tvg-ID="Discovery Turbo Xtra" tvg-name="Ex-Yu: Discovery Turbo Xtra HD" tvg-logo="http://boomtv.club/logo/dturbo.png" group-title="Dokumentarni",Ex-Yu: Discovery Turbo Xtra HD
-http://boomtv.at:8000/live/filmovihr/9274276428752625/4834.ts
-#EXTINF:-1 tvg-ID="National Geographic" tvg-name="Ex-Yu: National Geographic" tvg-logo="http://boomtv.club/logo/NationalGeographic.png" group-title="Dokumentarni",Ex-Yu: National Geographic
-http://boomtv.at:8000/live/filmovihr/9274276428752625/93.ts
-#EXTINF:-1 tvg-ID="Nat Geo Wild" tvg-name="Ex-Yu: National Geographic WILD" tvg-logo="http://boomtv.club/logo/wild.png" group-title="Dokumentarni",Ex-Yu: National Geographic WILD
-http://boomtv.at:8000/live/filmovihr/9274276428752625/4838.ts
-#EXTINF:-1 tvg-ID="History Channel" tvg-name="Ex-Yu: History Channel" tvg-logo="http://boomtv.club/logo/history.png" group-title="Dokumentarni",Ex-Yu: History Channel
-http://boomtv.at:8000/live/filmovihr/9274276428752625/90.ts
-#EXTINF:-1 tvg-ID="H2" tvg-name="Ex-Yu: History 2" tvg-logo="http://boomtv.club/logo/h2.png" group-title="Dokumentarni",Ex-Yu: History 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/91.ts
-#EXTINF:-1 tvg-ID="E!" tvg-name="Ex-Yu: Entertainment !" tvg-logo="http://boomtv.club/logo/e!.png" group-title="Dokumentarni",Ex-Yu: Entertainment !
-http://boomtv.at:8000/live/filmovihr/9274276428752625/40.ts
-#EXTINF:-1 tvg-ID="Animal Planet" tvg-name="Ex-Yu: Animal Planet" tvg-logo="http://boomtv.club/logo/Animal Planet.png" group-title="Dokumentarni",Ex-Yu: Animal Planet
-http://boomtv.at:8000/live/filmovihr/9274276428752625/92.ts
-#EXTINF:-1 tvg-ID="24 Kitchen" tvg-name="Ex-Yu: 24 Kitchen" tvg-logo="http://boomtv.club/logo/24 Kitchen.png" group-title="Dokumentarni",Ex-Yu: 24 Kitchen
-http://boomtv.at:8000/live/filmovihr/9274276428752625/96.ts
-#EXTINF:-1 tvg-ID="TLC" tvg-name="Ex-Yu: TLC" tvg-logo="http://boomtv.club/logo/tlc.png" group-title="Dokumentarni",Ex-Yu: TLC
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1118.ts
-#EXTINF:-1 tvg-ID="Crime & Investigation" tvg-name="Ex-Yu: Crime & Investigation Network" tvg-logo="http://boomtv.club/logo/Crime & Investigation.png" group-title="Dokumentarni",Ex-Yu: Crime & Investigation Network
-http://boomtv.at:8000/live/filmovihr/9274276428752625/73.ts
-#EXTINF:-1 tvg-ID="Food Network" tvg-name="Ex-Yu: Food Network" tvg-logo="http://boomtv.club/logo/food.png" group-title="Dokumentarni",Ex-Yu: Food Network
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8617.ts
-#EXTINF:-1 tvg-ID="CBS Reality" tvg-name="Ex-Yu: Cbs Reality" tvg-logo="http://boomtv.club/logo/cbsreality.png" group-title="Dokumentarni",Ex-Yu: Cbs Reality
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1499.ts
-#EXTINF:-1 tvg-ID="Lov i Ribolov" tvg-name="Ex-Yu: Lov i Ribolov" tvg-logo="http://boomtv.club/logo/lir.png" group-title="Dokumentarni",Ex-Yu: Lov i Ribolov
-http://boomtv.at:8000/live/filmovihr/9274276428752625/88.ts
-#EXTINF:-1 tvg-ID="Viasat Explorer" tvg-name="Ex-Yu: Viasat Explorer" tvg-logo="http://boomtv.club/logo/viasatexplorer.png" group-title="Dokumentarni",Ex-Yu: Viasat Explorer
-http://boomtv.at:8000/live/filmovihr/9274276428752625/222.ts
-#EXTINF:-1 tvg-ID="Viasat Nature" tvg-name="Ex-Yu: Viasat Nature" tvg-logo="http://boomtv.club/logo/viasatnature.png" group-title="Dokumentarni",Ex-Yu: Viasat Nature
-http://boomtv.at:8000/live/filmovihr/9274276428752625/4835.ts
-#EXTINF:-1 tvg-ID="Viasat History" tvg-name="Ex-Yu: Viasat History" tvg-logo="http://boomtv.club/logo/viasathistory.png" group-title="Dokumentarni",Ex-Yu: Viasat History
-http://boomtv.at:8000/live/filmovihr/9274276428752625/223.ts
-#EXTINF:-1 tvg-ID="Travel Channel UK" tvg-name="Ex-Yu: Travel Channel HD" tvg-logo="http://boomtv.club/logo/travel.png" group-title="Dokumentarni",Ex-Yu: Travel Channel HD
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8618.ts
-#EXTINF:-1 tvg-ID="Da Vinci Learning" tvg-name="Ex-Yu: Da Vinci Learning" tvg-logo="http://boomtv.club/logo/davinci.png" group-title="Dokumentarni",Ex-Yu: Da Vinci Learning
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1478.ts
-#EXTINF:-1 tvg-ID="DocuBox" tvg-name="Ex-Yu: Docubox" tvg-logo="http://boomtv.club/logo/docubox.png" group-title="Dokumentarni",Ex-Yu: Docubox
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8619.ts
-#EXTINF:-1 tvg-ID="Pink Kuvar" tvg-name="Ex-Yu: Pink Kuvar" tvg-logo="http://boomtv.club/logo/pinkkuvar.png" group-title="Pinkovi",Ex-Yu: Pink Kuvar
-http://boomtv.at:8000/live/filmovihr/9274276428752625/1500.ts
-#EXTINF:-1 tvg-ID="Pink Action" tvg-name="Ex-Yu: Pink Action" tvg-logo="http://boomtv.club/logo/pinkaction.png" group-title="Pinkovi",Ex-Yu: Pink Action
-http://boomtv.at:8000/live/filmovihr/9274276428752625/119.ts
-#EXTINF:-1 tvg-ID="Pink Movies" tvg-name="Ex-Yu: Pink Movies" tvg-logo="http://boomtv.club/logo/pinkmovies.png" group-title="Pinkovi",Ex-Yu: Pink Movies
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8597.ts
-#EXTINF:-1 tvg-ID="Pink Thriller" tvg-name="Ex-Yu: Pink Thriller" tvg-logo="http://boomtv.club/logo/pinkthriller.png" group-title="Pinkovi",Ex-Yu: Pink Thriller
-http://boomtv.at:8000/live/filmovihr/9274276428752625/122.ts
-#EXTINF:-1 tvg-ID="Pink Sci Fi & Fantasy" tvg-name="Ex-Yu: Pink Sci-Fi & Fantasy" tvg-logo="http://boomtv.club/logo/pinkscifimistery.png" group-title="Pinkovi",Ex-Yu: Pink Sci-Fi & Fantasy
-http://boomtv.at:8000/live/filmovihr/9274276428752625/123.ts
-#EXTINF:-1 tvg-ID="Pink Comedy" tvg-name="Ex-Yu: Pink Comedy" tvg-logo="http://boomtv.club/logo/pinkcomedy.png" group-title="Pinkovi",Ex-Yu: Pink Comedy
-http://boomtv.at:8000/live/filmovihr/9274276428752625/120.ts
-#EXTINF:-1 tvg-ID="Pink Horror" tvg-name="Ex-Yu: Pink Horror" tvg-logo="http://boomtv.club/logo/pinkhorror.png" group-title="Pinkovi",Ex-Yu: Pink Horror
-http://boomtv.at:8000/live/filmovihr/9274276428752625/125.ts
-#EXTINF:-1 tvg-ID="Pink Crime & Mystery" tvg-name="Ex-Yu: Pink Crime & Mystery" tvg-logo="http://boomtv.club/logo/pinkcrimemistery.png" group-title="Pinkovi",Ex-Yu: Pink Crime & Mystery
-http://boomtv.at:8000/live/filmovihr/9274276428752625/121.ts
-#EXTINF:-1 tvg-ID="Pink Family" tvg-name="Ex-Yu: Pink Family" tvg-logo="http://boomtv.club/logo/pinkfamily.png" group-title="Pinkovi",Ex-Yu: Pink Family
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8599.ts
-#EXTINF:-1 tvg-ID="Pink World Cinema" tvg-name="Ex-Yu: Pink World Cinema" tvg-logo="http://boomtv.club/logo/pinkworldcinema.png" group-title="Pinkovi",Ex-Yu: Pink World Cinema
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8606.ts
-#EXTINF:-1 tvg-ID="Pink Classic" tvg-name="Ex-Yu: Pink Classic" tvg-logo="http://boomtv.club/logo/pinkclassic.png" group-title="Pinkovi",Ex-Yu: Pink Classic
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8598.ts
-#EXTINF:-1 tvg-ID="Pink Western" tvg-name="Ex-Yu: Pink Western" tvg-logo="http://boomtv.club/logo/pinkwestern.png" group-title="Pinkovi",Ex-Yu: Pink Western
-http://boomtv.at:8000/live/filmovihr/9274276428752625/126.ts
-#EXTINF:-1 tvg-ID="Pink Romance" tvg-name="Ex-Yu: Pink Romance" tvg-logo="http://boomtv.club/logo/pinkromance.png" group-title="Pinkovi",Ex-Yu: Pink Romance
-http://boomtv.at:8000/live/filmovihr/9274276428752625/124.ts
-#EXTINF:-1 tvg-ID="Pink Film" tvg-name="Ex-Yu: Pink Film" tvg-logo="http://boomtv.club/logo/pinkfilm.png" group-title="Pinkovi",Ex-Yu: Pink Film
-http://boomtv.at:8000/live/filmovihr/9274276428752625/118.ts
-#EXTINF:-1 tvg-ID="Pink Premium" tvg-name="Ex-Yu: Pink Premium" tvg-logo="http://boomtv.club/logo/pinkpremium.png" group-title="Pinkovi",Ex-Yu: Pink Premium
-http://boomtv.at:8000/live/filmovihr/9274276428752625/109.ts
-#EXTINF:-1 tvg-ID="Pink Extra" tvg-name="Ex-Yu: Pink Extra" tvg-logo="http://boomtv.club/logo/pinkextra.png" group-title="Pinkovi",Ex-Yu: Pink Extra
-http://boomtv.at:8000/live/filmovihr/9274276428752625/111.ts
-#EXTINF:-1 tvg-ID="Pink Serije" tvg-name="Ex-Yu: Pink Serije" tvg-logo="http://boomtv.club/logo/pinkserije.png" group-title="Pinkovi",Ex-Yu: Pink Serije
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8607.ts
-#EXTINF:-1 tvg-ID="Pink Soap" tvg-name="Ex-Yu: Pink Soap" tvg-logo="http://boomtv.club/logo/pinksoap.png" group-title="Pinkovi",Ex-Yu: Pink Soap
-http://boomtv.at:8000/live/filmovihr/9274276428752625/127.ts
-#EXTINF:-1 tvg-ID="Pink Style" tvg-name="Ex-Yu: Pink Style" tvg-logo="http://boomtv.club/logo/pinkstyle.png" group-title="Pinkovi",Ex-Yu: Pink Style
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8605.ts
-#EXTINF:-1 tvg-ID="Pink&Roll" tvg-name="Ex-Yu: Pink Roll" tvg-logo="http://boomtv.club/logo/pinkroll.png" group-title="Pinkovi",Ex-Yu: Pink Roll
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8604.ts
-#EXTINF:-1 tvg-ID="Pink Parada" tvg-name="Ex-Yu: Pink Parada" tvg-logo="http://boomtv.club/logo/pinkparada.png" group-title="Pinkovi",Ex-Yu: Pink Parada
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8603.ts
-#EXTINF:-1 tvg-ID="Pink Koncert" tvg-name="Ex-Yu: Pink Koncert" tvg-logo="http://boomtv.club/logo/pinkkoncert.png" group-title="Pinkovi",Ex-Yu: Pink Koncert
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8600.ts
-#EXTINF:-1 tvg-ID="Pink Fashion" tvg-name="Ex-Yu: Pink Fashion" tvg-logo="http://boomtv.club/logo/pinkfashion.png" group-title="Pinkovi",Ex-Yu: Pink Fashion
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8608.ts
-#EXTINF:-1 tvg-ID="Bravo Music" tvg-name="Ex-Yu: Bravo Music" tvg-logo="http://boomtv.club/logo/pinkbravomusic.png" group-title="Pinkovi",Ex-Yu: Bravo Music
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8596.ts
-#EXTINF:-1 tvg-ID="Pink Music 2" tvg-name="Ex-Yu: Pink Music" tvg-logo="http://boomtv.club/logo/pinkmusic.png" group-title="Pinkovi",Ex-Yu: Pink Music
-http://boomtv.at:8000/live/filmovihr/9274276428752625/114.ts
-#EXTINF:-1 tvg-ID="Pink Music 2" tvg-name="Ex-Yu: Pink Music 2" tvg-logo="http://boomtv.club/logo/pinkmusic.png" group-title="Pinkovi",Ex-Yu: Pink Music 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8601.ts
-#EXTINF:-1 tvg-ID="Pink Zabava" tvg-name="Ex-Yu: Pink Zabava" tvg-logo="http://boomtv.club/logo/pinkzabava.png" group-title="Pinkovi",Ex-Yu: Pink Zabava
-http://boomtv.at:8000/live/filmovihr/9274276428752625/107.ts
-#EXTINF:-1 tvg-ID="Pink World" tvg-name="Ex-Yu: Pink World" tvg-logo="http://boomtv.club/logo/pinkworld.png" group-title="Pinkovi",Ex-Yu: Pink World
-http://boomtv.at:8000/live/filmovihr/9274276428752625/108.ts
-#EXTINF:-1 tvg-ID="Pink Hits 1" tvg-name="Ex-Yu: Pink Hits" tvg-logo="" group-title="Pinkovi",Ex-Yu: Pink Hits
-http://boomtv.at:8000/live/filmovihr/9274276428752625/115.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Pink Hits 2" tvg-logo="" group-title="Pinkovi",Ex-Yu: Pink Hits 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8602.ts
-#EXTINF:-1 tvg-ID="PinkFolk" tvg-name="Ex-Yu: Pink Folk 1" tvg-logo="http://boomtv.club/logo/pinkfolk1.png" group-title="Pinkovi",Ex-Yu: Pink Folk 1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/116.ts
-#EXTINF:-1 tvg-ID="Pink Folk 2" tvg-name="Ex-Yu: Pink Folk 2" tvg-logo="http://boomtv.club/logo/pinkfolk2.png" group-title="Pinkovi",Ex-Yu: Pink Folk 2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/117.ts
-#EXTINF:-1 tvg-ID="Pink Reality" tvg-name="Ex-Yu: Pink Reality" tvg-logo="http://boomtv.club/logo/pinkreality.png" group-title="Pinkovi",Ex-Yu: Pink Reality
-http://boomtv.at:8000/live/filmovihr/9274276428752625/112.ts
-#EXTINF:-1 tvg-ID="Pink Plus" tvg-name="Ex-Yu: Pink Plus" tvg-logo="http://boomtv.club/logo/pinkplus.png" group-title="Pinkovi",Ex-Yu: Pink Plus
-http://boomtv.at:8000/live/filmovihr/9274276428752625/110.ts
-#EXTINF:-1 tvg-ID="Pink Pedia" tvg-name="Ex-Yu: Pink Pedia" tvg-logo="http://boomtv.club/logo/pinkpedia.png" group-title="Pinkovi",Ex-Yu: Pink Pedia
-http://boomtv.at:8000/live/filmovihr/9274276428752625/113.ts
-#EXTINF:-1 tvg-ID="Pink Kids" tvg-name="Ex-Yu: Pink Kids" tvg-logo="http://boomtv.club/logo/pinkkids.png" group-title="Deciji",Ex-Yu: Pink Kids
-http://boomtv.at:8000/live/filmovihr/9274276428752625/128.ts
-#EXTINF:-1 tvg-ID="Pink BH" tvg-name="Ex-Yu: Pink BH" tvg-logo="http://boomtv.club/logo/pinkbh.png" group-title="Bosna i Hercegovina",Ex-Yu: Pink BH
-http://boomtv.at:8000/live/filmovihr/9274276428752625/105.ts
-#EXTINF:-1 tvg-ID="Balkanika" tvg-name="BG: Balkanika" tvg-logo="http://boomtv.club/logo/balkanika.png" group-title="Muzicki",BG: Balkanika
-http://boomtv.at:8000/live/filmovihr/9274276428752625/5305.ts
-#EXTINF:-1 tvg-ID="Motors TV" tvg-name="UK: Motors TV" tvg-logo="" group-title="Sportski",UK: Motors TV
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9155.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK: POKER LIVE" tvg-logo="" group-title="Sportski",UK: POKER LIVE
-http://boomtv.at:8000/live/filmovihr/9274276428752625/8725.ts
-#EXTINF:-1 tvg-ID="Sky Sports 1 UK" tvg-name="UK: SkySports1" tvg-logo="" group-title="Sportski",UK: SkySports1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9153.ts
-#EXTINF:-1 tvg-ID="Sky Sports 2 UK" tvg-name="UK: SkySports2" tvg-logo="" group-title="Sportski",UK: SkySports2
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9152.ts
-#EXTINF:-1 tvg-ID="Sky Sports 3 UK" tvg-name="UK: SkySports3" tvg-logo="" group-title="Sportski",UK: SkySports3
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9151.ts
-#EXTINF:-1 tvg-ID="Sky Sports 4 UK" tvg-name="UK: SkySports4" tvg-logo="" group-title="Sportski",UK: SkySports4
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9150.ts
-#EXTINF:-1 tvg-ID="Sky Sports 5 UK" tvg-name="UK: SkySports5" tvg-logo="" group-title="Sportski",UK: SkySports5
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9149.ts
-#EXTINF:-1 tvg-ID="Sky Sports F1 UK" tvg-name="UK: SkySportsF1" tvg-logo="" group-title="Sportski",UK: SkySportsF1
-http://boomtv.at:8000/live/filmovihr/9274276428752625/9148.ts
+
+GLAZBENI
+
+#EXTINF: -1 tvg-name="KRONEHIT TV HD" tvg-logo="https://phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/kronehit_tv_hd.png" group-title="Glazbeni", KRONEHIT TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" tvg-country="AR" tvg-url="" group-title="Glazbeni",Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="California Music Channel(CMTV)-US" tvg-name="California Music Channel(CMTV)-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Glazbeni",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:-1 tvg-ID="Pink Hits 1" tvg-name="Ex-Yu: Pink Hits" tvg-logo="" group-title="Glazbeni",Pink Hits
+http://boomtv.at:8000/live/filmovihr/9274276428752625/115.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Pink Hits 2" tvg-logo="" group-title="Glazbeni",Pink Hits 2
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8602.m3u8
+#EXTINF:-1 tvg-ID="Balkanika" tvg-name="Ex-Yu: BG: Balkanika" tvg-logo="http://boomtv.club/logo/balkanika.png" group-title="Glazbeni",BG: Balkanika
+http://boomtv.at:8000/live/filmovihr/9274276428752625/5305.m3u8
+#EXTINF:-1 tvg-ID="CMC" tvg-name="Ex-Yu: CMC" tvg-logo="http://boomtv.club/logo/cmc.png" group-title="Glazbeni",CMC
+http://boomtv.at:8000/live/filmovihr/9274276428752625/74.m3u8
+#EXTINF:-1 tvg-ID="DM Sat" tvg-name="Ex-Yu: DM Sat" tvg-logo="http://boomtv.club/logo/dmsat.png" group-title="Glazbeni",DM Sat
+http://boomtv.at:8000/live/filmovihr/9274276428752625/35.m3u8
+#EXTINF:-1 tvg-ID="BN Music" tvg-name="Ex-Yu: BN Music" tvg-logo="http://boomtv.club/logo/bnmusic.png" group-title="Glazbeni",BN Music
+http://boomtv.at:8000/live/filmovihr/9274276428752625/37.m3u8
+#EXTINF:-1 tvg-ID="Grand Narodna TV" tvg-name="Ex-Yu: Grand TV" tvg-logo="http://boomtv.club/logo/grand.png" group-title="Glazbeni",Grand TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/38.m3u8
+#EXTINF:-1 tvg-ID="Grand Narodna TV" tvg-name="Ex-Yu: Grand 2 TV" tvg-logo="http://boomtv.club/logo/grand2.png" group-title="Glazbeni",Grand 2 TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/5857.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: iDJ TV" tvg-logo="http://boomtv.club/logo/idjtv.png" group-title="Glazbeni",iDJ TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8728.m3u8
+#EXTINF:-1 tvg-ID="Bravo Music" tvg-name="Ex-Yu: Bravo Music" tvg-logo="http://boomtv.club/logo/pinkbravomusic.png" group-title="Glazbeni",Bravo Music
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8596.m3u8
+#EXTINF:-1 tvg-ID="Pink Music 2" tvg-name="Ex-Yu: Pink Music" tvg-logo="http://boomtv.club/logo/pinkmusic.png" group-title="Glazbeni",Pink Music
+http://boomtv.at:8000/live/filmovihr/9274276428752625/114.m3u8
+#EXTINF:-1 tvg-ID="Pink Music 2" tvg-name="Ex-Yu: Pink Music 2" tvg-logo="http://boomtv.club/logo/pinkmusic.png" group-title="Glazbeni",Pink Music 2
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8601.m3u8
+#EXTINF:-1 tvg-ID="PinkFolk" tvg-name="Ex-Yu: Pink Folk 1" tvg-logo="http://boomtv.club/logo/pinkfolk1.png" group-title="Glazbeni",Pink Folk 1
+http://boomtv.at:8000/live/filmovihr/9274276428752625/116.m3u8
+#EXTINF:-1 tvg-ID="Pink Folk 2" tvg-name="Ex-Yu: Pink Folk 2" tvg-logo="http://boomtv.club/logo/pinkfolk2.png" group-title="Glazbeni",Pink Folk 2
+http://boomtv.at:8000/live/filmovihr/9274276428752625/117.m3u8
+
+
+
+HRVATSKA
+
+#EXTINF:-1 tvg-ID="HRT 1" tvg-name=Ex-Yu: HRT 1" tvg-logo="http://boomtv.club/logo/hrt1.png" group-title="Hrvatska",HRT 1
+http://boomtv.at:8000/live/filmovihr/9274276428752625/55.m3u8
+#EXTINF:-1 tvg-ID="HRT 2" tvg-name=Ex-Yu: HRT 2" tvg-logo="http://boomtv.club/logo/hrt2.png" group-title="Hrvatska",HRT 2
+http://boomtv.at:8000/live/filmovihr/9274276428752625/56.m3u8
+#EXTINF:-1 tvg-ID="HRT 3" tvg-name="Ex-Yu: HRT 3" tvg-logo="http://boomtv.club/logo/hrt3.png" group-title="Hrvatska",HRT 3
+http://boomtv.at:8000/live/filmovihr/9274276428752625/57.m3u8
+#EXTINF:-1 tvg-ID="HRT 4" tvg-name="Ex-Yu: HRT 4" tvg-logo="http://boomtv.club/logo/hrt4.png" group-title="Hrvatska",HRT 4
+http://boomtv.at:8000/live/filmovihr/9274276428752625/58.m3u8
+#EXTINF:-1 tvg-ID="Nova TV" tvg-name="Ex-Yu: Nova TV" tvg-logo="http://boomtv.club/logo/novahr.png" group-title="Hrvatska",Nova TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/59.m3u8
+#EXTINF:-1 tvg-ID="Doma TV" tvg-name="Ex-Yu: Doma TV" tvg-logo="http://boomtv.club/logo/doma.png" group-title="Hrvatska",Doma TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/72.m3u8
+#EXTINF:-1 tvg-ID="RTL" tvg-name="Ex-Yu: RTL Televizija" tvg-logo="http://boomtv.club/logo/rtlhr.png" group-title="Hrvatska",RTL Televizija
+http://boomtv.at:8000/live/filmovihr/9274276428752625/60.m3u8
+#EXTINF:-1 tvg-ID="RTL 2" tvg-name="Ex-Yu: RTL 2" tvg-logo="http://boomtv.club/logo/rtl2hr.png" group-title="Hrvatska",RTL 2
+http://boomtv.at:8000/live/filmovihr/9274276428752625/61.m3u8
+#EXTINF:-1 tvg-ID="RTL Crime" tvg-name="Ex-Yu: RTL Crime" tvg-logo="http://boomtv.club/logo/rtlcrimehr.png" group-title="Hrvatska",RTL Crime
+http://boomtv.at:8000/live/filmovihr/9274276428752625/62.m3u8
+#EXTINF:-1 tvg-ID="RTL Living" tvg-name="Ex-Yu: RTL Living" tvg-logo="http://boomtv.club/logo/rtlliving.png" group-title="Hrvatska",RTL Living
+http://boomtv.at:8000/live/filmovihr/9274276428752625/63.m3u8
+#EXTINF:-1 tvg-ID="RTL Passion" tvg-name="Ex-Yu: RTL Passion" tvg-logo="http://boomtv.club/logo/rtlpassion.png" group-title="Hrvatska",RTL Passion
+http://boomtv.at:8000/live/filmovihr/9274276428752625/64.m3u8
+#EXTINF:-1 tvg-ID="Klasik TV" tvg-name="Ex-Yu: Klasik TV" tvg-logo="http://boomtv.club/logo/klasik.png" group-title="Hrvatska",Klasik TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/71.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Z1" tvg-logo="http://boomtv.club/logo/z1.png" group-title="Hrvatska",Z1
+http://boomtv.at:8000/live/filmovihr/9274276428752625/1486.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Slavonska TV" tvg-logo="http://boomtv.club/logo/slavonska.png" group-title="Hrvatska",Slavonska TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/66.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Osjecka TV" tvg-logo="http://boomtv.club/logo/osjecka.png" group-title="Hrvatska",Osjecka TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/67.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Vinkovacka TV" tvg-logo="http://boomtv.club/logo/vinkovacka.png" group-title="Hrvatska",Vinkovacka TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/1473.m3u8
+
+
+
+SRBIJA
+
+#EXTINF:-1 tvg-ID="RTS HD" tvg-name="Ex-Yu: RTS HD" tvg-logo="http://boomtv.club/logo/rts.png" group-title="Srbija", RTS HD
+http://boomtv.at:8000/live/filmovihr/9274276428752625/1.m3u8
+#EXTINF:-1 tvg-ID="RTS 2" tvg-name="Ex-Yu: RTS 2" tvg-logo="http://boomtv.club/logo/rts2rs.png" group-title="Srbija",RTS 2
+http://boomtv.at:8000/live/filmovihr/9274276428752625/2.m3u8
+#EXTINF:-1 tvg-ID="RTS 3" tvg-name="Ex-Yu: RTS 3" tvg-logo="http://boomtv.club/logo/rts3rs.png" group-title="Srbija",RTS 3
+http://boomtv.at:8000/live/filmovihr/9274276428752625/3.m3u8
+#EXTINF:-1 tvg-ID="RTS Sat" tvg-name="Ex-Yu: RTS Sat" tvg-logo="http://boomtv.club/logo/rtssat.png" group-title="Srbija",RTS Sat
+http://boomtv.at:8000/live/filmovihr/9274276428752625/6337.m3u8
+#EXTINF:-1 tvg-ID="RTV 1" tvg-name="Ex-Yu: RTV 1" tvg-logo="http://boomtv.club/logo/rtv1.png" group-title="Srbija",RTV 1
+http://boomtv.at:8000/live/filmovihr/9274276428752625/4.m3u8
+#EXTINF:-1 tvg-ID="RTV 2" tvg-name="Ex-Yu: RTV 2" tvg-logo="http://boomtv.club/logo/rtv2.png" group-title="Srbija",RTV 2
+http://boomtv.at:8000/live/filmovihr/9274276428752625/5297.m3u8
+#EXTINF:-1 tvg-ID="Prva" tvg-name="Ex-Yu: Prva" tvg-logo="http://boomtv.club/logo/prva.png" group-title="Srbija",Prva
+http://boomtv.at:8000/live/filmovihr/9274276428752625/5.m3u8
+#EXTINF:-1 tvg-ID="Prva Plus" tvg-name="Ex-Yu: Prva Plus" tvg-logo="http://boomtv.club/logo/prvaplus.png" group-title="Srbija",Prva Plus
+http://boomtv.at:8000/live/filmovihr/9274276428752625/6.m3u8
+#EXTINF:-1 tvg-ID="Prva MAX" tvg-name="Ex-Yu: Prva Max" tvg-logo="http://boomtv.club/logo/prvamax.png" group-title="Srbija",Prva Max
+http://boomtv.at:8000/live/filmovihr/9274276428752625/6336.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Prva World" tvg-logo="http://boomtv.club/logo/prvaworld.png" group-title="Srbija",Prva World
+http://boomtv.at:8000/live/filmovihr/9274276428752625/11.m3u8
+#EXTINF:-1 tvg-ID="B92" tvg-name="Ex-Yu: B92" tvg-logo="http://boomtv.club/logo/b92.png" group-title="Srbija",B92
+http://boomtv.at:8000/live/filmovihr/9274276428752625/10.m3u8
+#EXTINF:-1 tvg-ID="Happy TV" tvg-name="Ex-Yu: Happy" tvg-logo="http://boomtv.club/logo/happy.png" group-title="Srbija",Happy
+http://boomtv.at:8000/live/filmovihr/9274276428752625/13.m3u8
+#EXTINF:-1 tvg-ID="N1" tvg-name="Ex-Yu: N1 Info" tvg-logo="http://boomtv.club/logo/n1.png" group-title="Srbija",N1 Info
+http://boomtv.at:8000/live/filmovihr/9274276428752625/47.m3u8
+#EXTINF:-1 tvg-ID="Al Jazeera Balkans" tvg-name="Ex-Yu: Al Jezzera Balkans" tvg-logo="http://boomtv.club/logo/alj.png" group-title="Srbija",Al Jezzera Balkans
+http://boomtv.at:8000/live/filmovihr/9274276428752625/16.m3u8
+#EXTINF:-1 tvg-ID="SOS" tvg-name="Ex-Yu: SOS" tvg-logo="http://boomtv.club/logo/sos.png" group-title="Srbija",SOS
+http://boomtv.at:8000/live/filmovihr/9274276428752625/14.m3u8
+#EXTINF:-1 tvg-ID="KCN 1" tvg-name="Ex-Yu: KCN 1" tvg-logo="http://boomtv.club/logo/kcn1.png" group-title="Srbija",KCN 1
+http://boomtv.at:8000/live/filmovihr/9274276428752625/232.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: KCN 2" tvg-logo="http://boomtv.club/logo/kcn2.png" group-title="Srbija",KCN 2
+http://boomtv.at:8000/live/filmovihr/9274276428752625/233.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: KCN 3" tvg-logo="http://boomtv.club/logo/kcn3.png" group-title="Srbija",KCN 3
+http://boomtv.at:8000/live/filmovihr/9274276428752625/234.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Nova RS" tvg-logo="http://boomtv.club/logo/tvkladovo.png" group-title="Srbija",Nova RS
+http://boomtv.at:8000/live/filmovihr/9274276428752625/4826.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV Hram" tvg-logo="http://boomtv.club/logo/hram.png" group-title="Srbija",TV Hram
+http://boomtv.at:8000/live/filmovihr/9274276428752625/4829.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Palma Plus" tvg-logo="http://boomtv.club/logo/palmaplus.png" group-title="Srbija",Palma Plus
+http://boomtv.at:8000/live/filmovihr/9274276428752625/4831.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Novi Pazar" tvg-logo="http://boomtv.club/logo/tvbor.png" group-title="Srbija",Novi Pazar
+http://boomtv.at:8000/live/filmovihr/9274276428752625/4827.m3u8
+
+
+CRNA GORA
+
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: RTCG 1" tvg-logo="http://boomtv.club/logo/rtcgsat.png" group-title="Crna Gora",RTCG 1
+http://boomtv.at:8000/live/filmovihr/9274276428752625/7947.m3u8
+#EXTINF:-1 tvg-ID="RTCG 2" tvg-name="Ex-Yu: RTCG 2" tvg-logo="http://boomtv.club/logo/rtcg2.png" group-title="Crna Gora",RTCG 2
+http://boomtv.at:8000/live/filmovihr/9274276428752625/7949.m3u8
+#EXTINF:-1 tvg-ID="Vijesti" tvg-name="Ex-Yu: 24 Vijesti" tvg-logo="http://boomtv.club/logo/24vesti.png" group-title="Crna Gora",24 Vijesti
+http://boomtv.at:8000/live/filmovihr/9274276428752625/7950.m3u8
+
+
+BOSNA i HERCEGOVINA
+
+#EXTINF:-1 tvg-ID="Pink BH" tvg-name="Ex-Yu: Nova BH" tvg-logo="http://boomtv.club/logo/pinkbh.png" group-title="Bosna i Hercegovina",Nova BH
+http://boomtv.at:8000/live/filmovihr/9274276428752625/105.m3u8
+#EXTINF:-1 tvg-ID="BHT 1" tvg-name="Ex-Yu: BHT 1" tvg-logo="http://boomtv.club/logo/bhtv.png" group-title="Bosna i Hercegovina",BHT 1
+http://boomtv.at:8000/live/filmovihr/9274276428752625/42.m3u8
+#EXTINF:-1 tvg-ID="BN" tvg-name="Ex-Yu: BN TV" tvg-logo="http://boomtv.club/logo/bntv.png" group-title="Bosna i Hercegovina",BN TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/36.m3u8
+#EXTINF:-1 tvg-ID="OBN" tvg-name="Ex-Yu: OBN" tvg-logo="http://boomtv.club/logo/obn.png" group-title="Bosna i Hercegovina",OBN
+http://boomtv.at:8000/live/filmovihr/9274276428752625/43.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV Sarajevo" tvg-logo="http://boomtv.club/logo/tvsa.png" group-title="Bosna i Hercegovina",TV Sarajevo
+http://boomtv.at:8000/live/filmovihr/9274276428752625/46.m3u8
+#EXTINF:-1 tvg-ID="Face TV" tvg-name="Ex-Yu: Face TV" tvg-logo="http://boomtv.club/logo/facetv.png" group-title="Bosna i Hercegovina",Face TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/48.m3u8
+#EXTINF:-1 tvg-ID="Federalna TV" tvg-name="Ex-Yu: Federalna TV" tvg-logo="http://boomtv.club/logo/federalna.png" group-title="Bosna i Hercegovina",Federalna TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/49.m3u8
+#EXTINF:-1 tvg-ID="RTRS" tvg-name="Ex-Yu: RTRS" tvg-logo="http://boomtv.club/logo/rtrs.png" group-title="Bosna i Hercegovina",RTRS
+http://boomtv.at:8000/live/filmovihr/9274276428752625/17.m3u8
+#EXTINF:-1 tvg-ID="RTRS Plus" tvg-name="Ex-Yu: RTRS Plus" tvg-logo="http://boomtv.club/logo/rtrsplus.png" group-title="Bosna i Hercegovina",RTRS Plus
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8595.m3u8
+#EXTINF:-1 tvg-ID="ATV" tvg-name="Ex-Yu: Alternativna" tvg-logo="http://boomtv.club/logo/alternativna.png" group-title="Bosna i Hercegovina",Alternativna
+http://boomtv.at:8000/live/filmovihr/9274276428752625/18.m3u8
+#EXTINF:-1 tvg-ID="Hayat TV" tvg-name="Ex-Yu: Hayat" tvg-logo="http://boomtv.club/logo/hayat.png" group-title="Bosna i Hercegovina",Hayat
+http://boomtv.at:8000/live/filmovihr/9274276428752625/50.m3u8
+#EXTINF:-1 tvg-ID="Hayat Plus" tvg-name="Ex-Yu: Hayat Plus" tvg-logo="http://boomtv.club/logo/hayatplus.png" group-title="Bosna i Hercegovina",Hayat Plus
+http://boomtv.at:8000/live/filmovihr/9274276428752625/51.m3u8
+#EXTINF:-1 tvg-ID="Hayat Folk" tvg-name="Ex-Yu: Hayat Folk" tvg-logo="http://boomtv.club/logo/hayatfolk.png" group-title="Bosna i Hercegovina",Hayat Folk
+http://boomtv.at:8000/live/filmovihr/9274276428752625/53.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Hayat Music" tvg-logo="http://boomtv.club/logo/hayatmusic.png" group-title="Bosna i Hercegovina",Hayat Music
+http://boomtv.at:8000/live/filmovihr/9274276428752625/52.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Izvorna TV" tvg-logo="http://boomtv.club/logo/izvorna.png" group-title="Bosna i Hercegovina",Izvorna TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/225.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Posavina" tvg-logo="http://boomtv.club/logo/posavina.png" group-title="Bosna i Hercegovina",Posavina
+http://boomtv.at:8000/live/filmovihr/9274276428752625/4860.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV Zenica" tvg-logo="http://boomtv.club/logo/tvzenica.png" group-title="Bosna i Hercegovina",TV Zenica
+http://boomtv.at:8000/live/filmovihr/9274276428752625/4823.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: RTV Sevdah" tvg-logo="http://boomtv.club/logo/sevdahtv.png" group-title="Bosna i Hercegovina",RTV Sevdah
+http://boomtv.at:8000/live/filmovihr/9274276428752625/4824.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: OTV Valentinovo" tvg-logo="http://boomtv.club/logo/otvvalentino.png" group-title="Bosna i Hercegovina",OTV Valentinovo
+http://boomtv.at:8000/live/filmovihr/9274276428752625/4825.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV Sehara" tvg-logo="" group-title="Bosna i Hercegovina",TV Sehara
+http://boomtv.at:8000/live/filmovihr/9274276428752625/5289.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Bujrum TV" tvg-logo="" group-title="Bosna i Hercegovina",Bujrum TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/5292.m3u8
+
+
+SLOVENIJA
+
+#EXTINF:-1 tvg-ID="SLO 1" tvg-name="Ex-Yu: SLO TV 1" tvg-logo="http://boomtv.club/logo/slotv1.png" group-title="Slovenija",SLO TV 1
+http://boomtv.at:8000/live/filmovihr/9274276428752625/6371.m3u8
+#EXTINF:-1 tvg-ID="SLO 2" tvg-name="Ex-Yu: SLO TV 2" tvg-logo="http://boomtv.club/logo/slotv2.png" group-title="Slovenija",SLO TV 2
+http://boomtv.at:8000/live/filmovihr/9274276428752625/6372.m3u8
+#EXTINF:-1 tvg-ID="POP TV" tvg-name="Ex-Yu: Pop TV" tvg-logo="http://boomtv.club/logo/poptvslovenia.png" group-title="Slovenija",Pop TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/6374.m3u8
+#EXTINF:-1 tvg-ID="POP Kino" tvg-name="Ex-Yu: Pop Kino" tvg-logo="http://boomtv.club/logo/kinoslovenia.png" group-title="Slovenija",Pop Kino
+http://boomtv.at:8000/live/filmovihr/9274276428752625/6376.m3u8
+#EXTINF:-1 tvg-ID="Kanal A" tvg-name="Ex-Yu: Kanal A" tvg-logo="http://boomtv.club/logo/kanalaslo.png" group-title="Slovenija",Kanal A
+http://boomtv.at:8000/live/filmovihr/9274276428752625/6369.m3u8
+#EXTINF:-1 tvg-ID="POP Brio" tvg-name="Ex-Yu: Brio" tvg-logo="http://boomtv.club/logo/brioslovenia.png" group-title="Slovenija",Brio
+http://boomtv.at:8000/live/filmovihr/9274276428752625/6370.m3u8
+
+
+FILMSKI
+
+#EXTINF:-1 tvg-ID="HBO Adria" tvg-name="Ex-Yu: HBO 1" tvg-logo="http://boomtv.club/logo/hbo1.png" group-title="Filmski",HBO 1
+http://boomtv.at:8000/live/filmovihr/9274276428752625/83.m3u8
+#EXTINF:-1 tvg-ID="HBO 2" tvg-name="Ex-Yu: HBO 2" tvg-logo="http://boomtv.club/logo/hbo2.png" group-title="Filmski",HBO 2
+http://boomtv.at:8000/live/filmovihr/9274276428752625/84.m3u8
+#EXTINF:-1 tvg-ID="HBO 3" tvg-name="Ex-Yu: HBO 3" tvg-logo="http://boomtv.club/logo/hbo3.png" group-title="Filmski",HBO 3
+http://boomtv.at:8000/live/filmovihr/9274276428752625/1508.m3u8
+#EXTINF:-1 tvg-ID="Cinemax 1" tvg-name="Ex-Yu: Cinemax 1" tvg-logo="http://boomtv.club/logo/cinemax1.png" group-title="Filmski",Cinemax 1
+http://boomtv.at:8000/live/filmovihr/9274276428752625/101.m3u8
+#EXTINF:-1 tvg-ID="Cinemax 2" tvg-name="Ex-Yu: Cinemax 2" tvg-logo="http://boomtv.club/logo/cinemax2.png" group-title="Filmski",Cinemax 2
+http://boomtv.at:8000/live/filmovihr/9274276428752625/102.m3u8
+#EXTINF:-1 tvg-ID="FOX" tvg-name="Ex-Yu: Fox" tvg-logo="http://boomtv.club/logo/fox.png" group-title="Filmski",Fox
+http://boomtv.at:8000/live/filmovihr/9274276428752625/19.m3u8
+#EXTINF:-1 tvg-ID="FOX Life" tvg-name="Ex-Yu: Fox Life" tvg-logo="http://boomtv.club/logo/foxlife.png" group-title="Filmski",Fox Life
+http://boomtv.at:8000/live/filmovihr/9274276428752625/21.m3u8
+#EXTINF:-1 tvg-ID="FOX Movies" tvg-name="Ex-Yu: Fox Movies" tvg-logo="http://boomtv.club/logo/foxmovies.png" group-title="Filmski",Fox Movies
+http://boomtv.at:8000/live/filmovihr/9274276428752625/20.m3u8
+#EXTINF:-1 tvg-ID="CineStar TV (Srb)" tvg-name="Ex-Yu: Cinestar TV" tvg-logo="http://boomtv.club/logo/cinestartv.png" group-title="Filmski",Cinestar TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/97.m3u8
+#EXTINF:-1 tvg-ID="CineStar Action & Thriller (Srb)" tvg-name="Ex-Yu: CineStar Action & Thriller" tvg-logo="http://boomtv.club/logo/cinestartvaction.png" group-title="Filmski",CineStar Action & Thriller
+http://boomtv.at:8000/live/filmovihr/9274276428752625/98.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: CineStar Fantasy" tvg-logo="http://boomtv.club/logo/cinestartvfantasy.png" group-title="Filmski",CineStar Fantasy
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8609.m3u8
+#EXTINF:-1 tvg-ID="CineStar Premiere" tvg-name="Ex-Yu: CineStar Premiere 1" tvg-logo="http://boomtv.club/logo/cinestarpremiere1.png" group-title="Filmski",CineStar Premiere 1
+http://boomtv.at:8000/live/filmovihr/9274276428752625/99.m3u8
+#EXTINF:-1 tvg-ID="CineStar Premiere 2" tvg-name="Ex-Yu: CineStar Premiere 2" tvg-logo="http://boomtv.club/logo/cinestarpremiere2.png" group-title="Filmski",CineStar Premiere 2
+http://boomtv.at:8000/live/filmovihr/9274276428752625/100.m3u8
+#EXTINF:-1 tvg-ID="M1 Film" tvg-name="Ex-Yu: M1 Film" tvg-logo="http://boomtv.club/logo/m1film.png" group-title="Filmski",M1 Film
+http://boomtv.at:8000/live/filmovihr/9274276428752625/85.m3u8
+#EXTINF:-1 tvg-ID="Kino TV" tvg-name="Ex-Yu: Kino TV" tvg-logo="http://boomtv.club/logo/kinotv.png" group-title="Filmski",Kino TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/1462.m3u8
+#EXTINF:-1 tvg-ID="SciFi" tvg-name="Ex-Yu: SciFi" tvg-logo="http://boomtv.club/logo/scifi.png" group-title="Filmski",SciFi
+http://boomtv.at:8000/live/filmovihr/9274276428752625/6045.m3u8
+#EXTINF:-1 tvg-ID="AXN" tvg-name="Ex-Yu: Axn Adria" tvg-logo="http://boomtv.club/logo/axn.png" group-title="Filmski",Axn Adria
+http://boomtv.at:8000/live/filmovihr/9274276428752625/86.m3u8
+#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="Ex-Yu: Axn Spin" tvg-logo="http://boomtv.club/logo/axnspin.png" group-title="Filmski",Axn Spin
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8611.m3u8
+#EXTINF:-1 tvg-ID="Universal Channel" tvg-name="Ex-Yu: Diva Channel" tvg-logo="http://boomtv.club/logo/diva.png" group-title="Filmski",Diva Channel
+http://boomtv.at:8000/live/filmovihr/9274276428752625/6338.m3u8
+#EXTINF:-1 tvg-ID="Cinemania" tvg-name="Ex-Yu: Cinemania" tvg-logo="http://boomtv.club/logo/cinemania.png" group-title="Filmski",Cinemania
+http://boomtv.at:8000/live/filmovihr/9274276428752625/1498.m3u8
+
+
+PINKOVI
+
+#EXTINF:-1 tvg-ID="Pink 1" tvg-name="Ex-Yu: Pink 1" tvg-logo="http://boomtv.club/logo/pink1.png" group-title="Pinkovi",Pink 1
+http://boomtv.at:8000/live/filmovihr/9274276428752625/7.m3u8
+#EXTINF:-1 tvg-ID="Pink 2" tvg-name="Ex-Yu: Pink 2" tvg-logo="http://boomtv.club/logo/pink2.png" group-title="Pinkovi",Pink 2
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8.m3u8
+#EXTINF:-1 tvg-ID="Pink 3 Info" tvg-name="Ex-Yu: Pink 3 Info" tvg-logo="http://boomtv.club/logo/pink3.png" group-title="Pinkovi",Pink 3 Info
+http://boomtv.at:8000/live/filmovihr/9274276428752625/9.m3u8
+#EXTINF:-1 tvg-ID="Pink Kuvar" tvg-name="Ex-Yu: Pink Kuvar" tvg-logo="http://boomtv.club/logo/pinkkuvar.png" group-title="Pinkovi",Pink Kuvar
+http://boomtv.at:8000/live/filmovihr/9274276428752625/1500.m3u8
+#EXTINF:-1 tvg-ID="Pink Action" tvg-name="Ex-Yu: Pink Action" tvg-logo="http://boomtv.club/logo/pinkaction.png" group-title="Pinkovi",Pink Action
+http://boomtv.at:8000/live/filmovihr/9274276428752625/119.m3u8
+#EXTINF:-1 tvg-ID="Pink Movies" tvg-name="Ex-Yu: Pink Movies" tvg-logo="http://boomtv.club/logo/pinkmovies.png" group-title="Pinkovi",Pink Movies
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8597.m3u8
+#EXTINF:-1 tvg-ID="Pink Thriller" tvg-name="Ex-Yu: Pink Thriller" tvg-logo="http://boomtv.club/logo/pinkthriller.png" group-title="Pinkovi",Pink Thriller
+http://boomtv.at:8000/live/filmovihr/9274276428752625/122.m3u8
+#EXTINF:-1 tvg-ID="Pink Sci Fi & Fantasy" tvg-name="Ex-Yu: Pink Sci-Fi & Fantasy" tvg-logo="http://boomtv.club/logo/pinkscifimistery.png" group-title="Pinkovi",Pink Sci-Fi & Fantasy
+http://boomtv.at:8000/live/filmovihr/9274276428752625/123.m3u8
+#EXTINF:-1 tvg-ID="Pink Comedy" tvg-name="Ex-Yu: Pink Comedy" tvg-logo="http://boomtv.club/logo/pinkcomedy.png" group-title="Pinkovi",Pink Comedy
+http://boomtv.at:8000/live/filmovihr/9274276428752625/120.m3u8
+#EXTINF:-1 tvg-ID="Pink Horror" tvg-name="Ex-Yu: Pink Horror" tvg-logo="http://boomtv.club/logo/pinkhorror.png" group-title="Pinkovi",Pink Horror
+http://boomtv.at:8000/live/filmovihr/9274276428752625/125.m3u8
+#EXTINF:-1 tvg-ID="Pink Crime & Mystery" tvg-name="Ex-Yu: Pink Crime & Mystery" tvg-logo="http://boomtv.club/logo/pinkcrimemistery.png" group-title="Pinkovi",Pink Crime & Mystery
+http://boomtv.at:8000/live/filmovihr/9274276428752625/121.m3u8
+#EXTINF:-1 tvg-ID="Pink Family" tvg-name="Ex-Yu: Pink Family" tvg-logo="http://boomtv.club/logo/pinkfamily.png" group-title="Pinkovi",Pink Family
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8599.m3u8
+#EXTINF:-1 tvg-ID="Pink World Cinema" tvg-name="Ex-Yu: Pink World Cinema" tvg-logo="http://boomtv.club/logo/pinkworldcinema.png" group-title="Pinkovi",Pink World Cinema
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8606.m3u8
+#EXTINF:-1 tvg-ID="Pink Classic" tvg-name="Ex-Yu: Pink Classic" tvg-logo="http://boomtv.club/logo/pinkclassic.png" group-title="Pinkovi",Pink Classic
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8598.m3u8
+#EXTINF:-1 tvg-ID="Pink Western" tvg-name="Ex-Yu: Pink Western" tvg-logo="http://boomtv.club/logo/pinkwestern.png" group-title="Pinkovi",Pink Western
+http://boomtv.at:8000/live/filmovihr/9274276428752625/126.m3u8
+#EXTINF:-1 tvg-ID="Pink Romance" tvg-name="Ex-Yu: Pink Romance" tvg-logo="http://boomtv.club/logo/pinkromance.png" group-title="Pinkovi",Pink Romance
+http://boomtv.at:8000/live/filmovihr/9274276428752625/124.m3u8
+#EXTINF:-1 tvg-ID="Pink Film" tvg-name="Ex-Yu: Pink Film" tvg-logo="http://boomtv.club/logo/pinkfilm.png" group-title="Pinkovi",Pink Film
+http://boomtv.at:8000/live/filmovihr/9274276428752625/118.m3u8
+#EXTINF:-1 tvg-ID="Pink Premium" tvg-name="Ex-Yu: Pink Premium" tvg-logo="http://boomtv.club/logo/pinkpremium.png" group-title="Pinkovi",Pink Premium
+http://boomtv.at:8000/live/filmovihr/9274276428752625/109.m3u8
+#EXTINF:-1 tvg-ID="Pink Extra" tvg-name="Ex-Yu: Pink Extra" tvg-logo="http://boomtv.club/logo/pinkextra.png" group-title="Pinkovi",Pink Extra
+http://boomtv.at:8000/live/filmovihr/9274276428752625/111.m3u8
+#EXTINF:-1 tvg-ID="Pink Serije" tvg-name="Ex-Yu: Pink Serije" tvg-logo="http://boomtv.club/logo/pinkserije.png" group-title="Pinkovi",Pink Serije
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8607.m3u8
+#EXTINF:-1 tvg-ID="Pink Soap" tvg-name="Ex-Yu: Pink Soap" tvg-logo="http://boomtv.club/logo/pinksoap.png" group-title="Pinkovi",Pink Soap
+http://boomtv.at:8000/live/filmovihr/9274276428752625/127.m3u8
+#EXTINF:-1 tvg-ID="Pink Style" tvg-name="Ex-Yu: Pink Style" tvg-logo="http://boomtv.club/logo/pinkstyle.png" group-title="Pinkovi",Pink Style
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8605.m3u8
+#EXTINF:-1 tvg-ID="Pink Zabava" tvg-name="Ex-Yu: Pink Zabava" tvg-logo="http://boomtv.club/logo/pinkzabava.png" group-title="Pinkovi",Pink Zabava
+http://boomtv.at:8000/live/filmovihr/9274276428752625/107.m3u8
+#EXTINF:-1 tvg-ID="Pink World" tvg-name="Ex-Yu: Pink World" tvg-logo="http://boomtv.club/logo/pinkworld.png" group-title="Pinkovi",Pink World
+http://boomtv.at:8000/live/filmovihr/9274276428752625/108.m3u8
+#EXTINF:-1 tvg-ID="Pink Reality" tvg-name="Ex-Yu: Pink Reality" tvg-logo="http://boomtv.club/logo/pinkreality.png" group-title="Pinkovi",Pink Reality
+http://boomtv.at:8000/live/filmovihr/9274276428752625/112.m3u8
+#EXTINF:-1 tvg-ID="Pink Plus" tvg-name="Ex-Yu: Pink Plus" tvg-logo="http://boomtv.club/logo/pinkplus.png" group-title="Pinkovi",Pink Plus
+http://boomtv.at:8000/live/filmovihr/9274276428752625/110.m3u8
+#EXTINF:-1 tvg-ID="Pink Pedia" tvg-name="Ex-Yu: Pink Pedia" tvg-logo="http://boomtv.club/logo/pinkpedia.png" group-title="Pinkovi",Pink Pedia
+http://boomtv.at:8000/live/filmovihr/9274276428752625/113.m3u8
+
+
+
+DOKUMENTARNI
+
+#EXTINF:-1 tvg-ID="History Channel" tvg-name="Ex-Yu: History Channel" tvg-logo="http://boomtv.club/logo/history.png" group-title="Dokumentarni",History Channel
+http://boomtv.at:8000/live/filmovihr/9274276428752625/90.m3u8
+#EXTINF:-1 tvg-ID="H2" tvg-name="EX-Yu: History 2" tvg-logo="http://boomtv.club/logo/h2.png" group-title="Dokumentarni",History 2
+http://boomtv.at:8000/live/filmovihr/9274276428752625/91.m3u8
+#EXTINF:-1 tvg-ID="Discovery Channel" tvg-name="EX-Yu: Discovery Channel" tvg-logo="http://boomtv.club/logo/discoverychannel.png" group-title="Dokumentarni",Discovery Channel
+http://boomtv.at:8000/live/filmovihr/9274276428752625/94.m3u8
+#EXTINF:-1 tvg-ID="Discovery Science UK" tvg-name="EX-Yu: Discovery Science HD" tvg-logo="http://boomtv.club/logo/dsci.png" group-title="Dokumentarni",Discovery Science HD
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8615.m3u8
+#EXTINF:-1 tvg-ID="Investigation Discovery" tvg-name="EX-Yu: ID Discovery" tvg-logo="http://boomtv.club/logo/idx.png" group-title="Dokumentarni",ID Discovery
+http://boomtv.at:8000/live/filmovihr/9274276428752625/95.m3u8
+#EXTINF:-1 tvg-ID="Discovery Turbo Xtra" tvg-name="EX-Yu: Discovery Turbo Xtra HD" tvg-logo="http://boomtv.club/logo/dturbo.png" group-title="Dokumentarni",Discovery Turbo Xtra HD
+http://boomtv.at:8000/live/filmovihr/9274276428752625/4834.m3u8
+#EXTINF:-1 tvg-ID="National Geographic" tvg-name="Ex-Yu: National Geographic" tvg-logo="http://boomtv.club/logo/NationalGeographic.png" group-title="Dokumentarni",National Geographic
+http://boomtv.at:8000/live/filmovihr/9274276428752625/93.m3u8
+#EXTINF:-1 tvg-ID="Nat Geo Wild" tvg-name="Ex-Yu: National Geographic WILD" tvg-logo="http://boomtv.club/logo/wild.png" group-title="Dokumentarni",National Geographic WILD
+http://boomtv.at:8000/live/filmovihr/9274276428752625/4838.m3u8
+#EXTINF:-1 tvg-ID="E!" tvg-name="Ex-Yu: Entertainment !" tvg-logo="http://boomtv.club/logo/e!.png" group-title="Dokumentarni",Entertainment !
+http://boomtv.at:8000/live/filmovihr/9274276428752625/40.m3u8
+#EXTINF:-1 tvg-ID="Animal Planet" tvg-name="Ex-Yu: Animal Planet" tvg-logo="http://boomtv.club/logo/Animal Planet.png" group-title="Dokumentarni",Animal Planet
+http://boomtv.at:8000/live/filmovihr/9274276428752625/92.m3u8
+#EXTINF:-1 tvg-ID="24 Kitchen" tvg-name="Ex-Yu: 24 Kitchen" tvg-logo="http://boomtv.club/logo/24 Kitchen.png" group-title="Dokumentarni",24 Kitchen
+http://boomtv.at:8000/live/filmovihr/9274276428752625/96.m3u8
+#EXTINF:-1 tvg-ID="Food Network" tvg-name="Ex-Yu: Food Network" tvg-logo="http://boomtv.club/logo/food.png" group-title="Dokumentarni",Food Network
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8617.m3u8
+#EXTINF:-1 tvg-ID="TLC" tvg-name="Ex-Yu: TLC" tvg-logo="http://boomtv.club/logo/tlc.png" group-title="Dokumentarni",TLC
+http://boomtv.at:8000/live/filmovihr/9274276428752625/1118.m3u8
+#EXTINF:-1 tvg-ID="Crime & Investigation" tvg-name="Ex-Yu: Crime & Investigation Network" tvg-logo="http://boomtv.club/logo/Crime & Investigation.png" group-title="Dokumentarni",Crime & Investigation Network
+http://boomtv.at:8000/live/filmovihr/9274276428752625/73.m3u8
+#EXTINF:-1 tvg-ID="CBS Reality" tvg-name="Ex-Yu: Cbs Reality" tvg-logo="http://boomtv.club/logo/cbsreality.png" group-title="Dokumentarni",Cbs Reality
+http://boomtv.at:8000/live/filmovihr/9274276428752625/1499.m3u8
+#EXTINF:-1 tvg-ID="Viasat Explorer" tvg-name="Ex-Yu: Viasat Explorer" tvg-logo="http://boomtv.club/logo/viasatexplorer.png" group-title="Dokumentarni",Viasat Explorer
+http://boomtv.at:8000/live/filmovihr/9274276428752625/222.m3u8
+#EXTINF:-1 tvg-ID="Viasat Nature" tvg-name="Ex-Yu: Viasat Nature" tvg-logo="http://boomtv.club/logo/viasatnature.png" group-title="Dokumentarni",Viasat Nature
+http://boomtv.at:8000/live/filmovihr/9274276428752625/4835.m3u8
+#EXTINF:-1 tvg-ID="Viasat History" tvg-name="Ex-Yu: Viasat History" tvg-logo="http://boomtv.club/logo/viasathistory.png" group-title="Dokumentarni",Viasat History
+http://boomtv.at:8000/live/filmovihr/9274276428752625/223.m3u8
+#EXTINF:-1 tvg-ID="Travel Channel UK" tvg-name="Ex-Yu: Travel Channel HD" tvg-logo="http://boomtv.club/logo/travel.png" group-title="Dokumentarni",Travel Channel HD
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8618.m3u8
+#EXTINF:-1 tvg-ID="DocuBox" tvg-name="Ex-Yu: Docubox" tvg-logo="http://boomtv.club/logo/docubox.png" group-title="Dokumentarni",Docubox
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8619.m3u8
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="Ex-Yu: Da Vinci" tvg-logo="http://boomtv.club/logo/disneychannel.png" group-title="Dokumentarni",Da Vinci
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8636.m3u8
+
+
+
+DJEČJI
+
+#EXTINF:-1 tvg-ID="Minimax" tvg-name="Ex-Yu: Minimax" tvg-logo="http://boomtv.club/logo/minimax.png" group-title="Djecji",Minimax
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8635.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Disney Xd" tvg-logo="http://boomtv.club/logo/disneyxd.png" group-title="Djecji",Disney Xd
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8638.m3u8
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Ex-Yu: Boomerang" tvg-logo="http://boomtv.club/logo/boomerang.png" group-title="Djecji",Boomerang
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8620.m3u8
+#EXTINF:-1 tvg-ID="Pink Super Kids" tvg-name="Ex-Yu: Pink Super Kids" tvg-logo="http://boomtv.club/logo/pinksuperkids.png" group-title="Djecji",Pink Super Kids
+http://boomtv.at:8000/live/filmovihr/9274276428752625/229.m3u8
+#EXTINF:-1 tvg-ID="Mini TV" tvg-name="Ex-Yu: Mini TV" tvg-logo="http://boomtv.club/logo/minitv.png" group-title="Djecji",Mini TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/68.m3u8
+#EXTINF:-1 tvg-ID="RTL Kockica" tvg-name="Ex-Yu: RTL Kockica" tvg-logo="http://boomtv.club/logo/rtlkockica.png" group-title="Djecji",RTL Kockica
+http://boomtv.at:8000/live/filmovihr/9274276428752625/65.m3u8
+#EXTINF:-1 tvg-ID="Hayatovci" tvg-name="Ex-Yu: Hayatovci" tvg-logo="http://boomtv.club/logo/hayatovci.png" group-title="Djecji",Hayatovci
+http://boomtv.at:8000/live/filmovihr/9274276428752625/54.m3u8
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Ex-Yu: Nickelodeon" tvg-logo="http://boomtv.club/logo/nick.png" group-title="Djecji",Nickelodeon
+http://boomtv.at:8000/live/filmovihr/9274276428752625/69.m3u8
+#EXTINF:-1 tvg-ID="Nick Jr. UK" tvg-name="Ex-Yu: Nick Jr." tvg-logo="http://boomtv.club/logo/nickjr.png" group-title="Djecji",Nick Jr.
+http://boomtv.at:8000/live/filmovihr/9274276428752625/70.m3u8
+
+
+
+
+SPORTSKI
+
+#EXTINF:-1 tvg-ID="Arena Sport 1 HD" tvg-name="Ex-Yu: Arena Sport 1 HD" tvg-logo="http://boomtv.club/logo/arenasport1.png" group-title="Sportski",Arena Sport 1 HD
+http://boomtv.at:8000/live/filmovihr/9274276428752625/9617.m3u8
+#EXTINF:-1 tvg-ID="Arena Sport 2 HD" tvg-name="Ex-Yu: Arena Sport 2 HD" tvg-logo="http://boomtv.club/logo/arenasport2.png" group-title="Sportski",Arena Sport 2 HD
+http://boomtv.at:8000/live/filmovihr/9274276428752625/9618.m3u8
+#EXTINF:-1 tvg-ID="Arena Sport 3 HD" tvg-name="Ex-Yu: Arena Sport 3 HD" tvg-logo="http://boomtv.club/logo/arenasport3.png" group-title="Sportski",Arena Sport 3 HD
+http://boomtv.at:8000/live/filmovihr/9274276428752625/9619.m3u8
+#EXTINF:-1 tvg-ID="Arena Sport 4 HD" tvg-name="Ex-Yu: Arena Sport 4 HD" tvg-logo="http://boomtv.club/logo/arenasport4.png" group-title="Sportski",Arena Sport 4 HD
+http://boomtv.at:8000/live/filmovihr/9274276428752625/9620.m3u8
+#EXTINF:-1 tvg-ID="Arena Sport 1 HR" tvg-name="Ex-Yu: Arena Sport 1 HR" tvg-logo="http://boomtv.club/logo/arenasport1.png" group-title="Sportski",Arena Sport 1 HR
+http://boomtv.at:8000/live/filmovihr/9274276428752625/75.m3u8
+#EXTINF:-1 tvg-ID="Arena Sport 2 HR" tvg-name="Ex-Yu: Arena Sport 2 HR" tvg-logo="http://boomtv.club/logo/arenasport2.png" group-title="Sportski",Arena Sport 2 HR
+http://boomtv.at:8000/live/filmovihr/9274276428752625/76.m3u8
+#EXTINF:-1 tvg-ID="Arena Sport 3 HR" tvg-name="Ex-Yu: Arena Sport 3 HR" tvg-logo="http://boomtv.club/logo/arenasport3.png" group-title="Sportski",Arena Sport 3 HR
+http://boomtv.at:8000/live/filmovihr/9274276428752625/77.m3u8
+#EXTINF:-1 tvg-ID="Arena Sport 4 HR" tvg-name="Ex-Yu: Arena Sport 4 HR" tvg-logo="http://boomtv.club/logo/arenasport4.png" group-title="Sportski",Arena Sport 4 HR
+http://boomtv.at:8000/live/filmovihr/9274276428752625/78.m3u8
+#EXTINF:-1 tvg-ID="Arena Sport 5 HR" tvg-name="Ex-Yu: Arena Sport 5 HR" tvg-logo="http://boomtv.club/logo/arenasport5.png" group-title="Sportski",Arena Sport 5 HR
+http://boomtv.at:8000/live/filmovihr/9274276428752625/79.m3u8
+#EXTINF:-1 tvg-ID="Arena Sport 6 HR" tvg-name="Ex-Yu: Arena Sport 6" tvg-logo="http://boomtv.club/logo/arenasport6.png" group-title="Sportski",Arena Sport 6
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8626.m3u8
+#EXTINF:-1 tvg-ID="Eurosport 1" tvg-name="Ex-Yu: Eurosport 1" tvg-logo="http://boomtv.club/logo/eurosport1.png" group-title="Sportski",Eurosport 1
+http://boomtv.at:8000/live/filmovihr/9274276428752625/23.m3u8
+#EXTINF:-1 tvg-ID="Eurosport 2" tvg-name="Ex-Yu: Eurosport 2" tvg-logo="http://boomtv.club/logo/eurosport2.png" group-title="Sportski",Eurosport 2
+http://boomtv.at:8000/live/filmovihr/9274276428752625/24.m3u8
+#EXTINF:-1 tvg-ID="Sport Klub Golf" tvg-name="Ex-Yu: Sport Klub Golf" tvg-logo="http://boomtv.club/logo/skgolf.png" group-title="Sportski",Sport Klub Golf
+http://boomtv.at:8000/live/filmovihr/9274276428752625/25.m3u8
+#EXTINF:-1 tvg-ID="Sport Klub HD" tvg-name="Ex-Yu: Sport Klub" tvg-logo="http://boomtv.club/logo/sk.png" group-title="Sportski",Sport Klub
+http://boomtv.at:8000/live/filmovihr/9274276428752625/8621.m3u8
+#EXTINF:-1 tvg-ID="Sport Klub 1" tvg-name="Ex-Yu: Sport Klub 1" tvg-logo="http://boomtv.club/logo/sk1.png" group-title="Sportski",Sport Klub 1
+http://boomtv.at:8000/live/filmovihr/9274276428752625/26.m3u8
+#EXTINF:-1 tvg-ID="Sport Klub 2" tvg-name="Ex-Yu: Sport Klub 2" tvg-logo="http://boomtv.club/logo/sk2.png" group-title="Sportski",Sport Klub 2
+http://boomtv.at:8000/live/filmovihr/9274276428752625/27.m3u8
+#EXTINF:-1 tvg-ID="Sport Klub 3" tvg-name="Ex-Yu: Sport Klub 3" tvg-logo="http://boomtv.club/logo/sk3.png" group-title="Sportski",Sport Klub 3
+http://boomtv.at:8000/live/filmovihr/9274276428752625/28.m3u8
+#EXTINF:-1 tvg-ID="Sport Klub 4" tvg-name="Ex-Yu: Sport Klub 4" tvg-logo="http://boomtv.club/logo/sk4.png" group-title="Sportski",Sport Klub 4
+http://boomtv.at:8000/live/filmovihr/9274276428752625/1058.m3u8
+#EXTINF:-1 tvg-ID="Sport Klub 5" tvg-name="Ex-Yu: Sport Klub 5" tvg-logo="http://boomtv.club/logo/sk5.png" group-title="Sportski",Sport Klub 5
+http://boomtv.at:8000/live/filmovihr/9274276428752625/1502.m3u8
+#EXTINF:-1 tvg-ID="Sport Klub 6" tvg-name="Ex-Yu: Sport Klub 6" tvg-logo="http://boomtv.club/logo/sk6.png" group-title="Sportski",Sport Klub 6
+http://boomtv.at:8000/live/filmovihr/9274276428752625/1503.m3u8
+#EXTINF:-1 tvg-ID="Sport Klub 1 HR" tvg-name="Ex-Yu: Sport Klub 1 HR" tvg-logo="http://boomtv.club/logo/sk1.png" group-title="Sportski",Sport Klub 1 HR
+http://boomtv.at:8000/live/filmovihr/9274276428752625/80.m3u8
+#EXTINF:-1 tvg-ID="Sportska TV" tvg-name="Ex-Yu: Sportska TV" tvg-logo="" group-title="Sportski",Sportska TV
+http://boomtv.at:8000/live/filmovihr/9274276428752625/1480.m3u8
